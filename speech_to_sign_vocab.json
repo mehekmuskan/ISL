@@ -1,0 +1,2514 @@
+{
+  "total_entries": 206,
+  "categories": [
+    "greetings_social",
+    "medical_emergency",
+    "daily_needs",
+    "family_people",
+    "emotions_feelings",
+    "questions",
+    "time_numbers",
+    "actions_verbs",
+    "food_nutrition",
+    "alphabet_signs"
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "category": "greetings_social",
+      "word": "hello",
+      "hindi": "नमस्ते / नमस्कार",
+      "kannada": "ನಮಸ್ಕಾರ",
+      "sign_description": "Open right hand waves gently side-to-side or right palm touches forehead like salute.",
+      "keywords": [
+        "hello",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "greetings_social",
+      "word": "namaste",
+      "hindi": "नमस्ते",
+      "kannada": "ನಮಸ್ಕಾರ",
+      "sign_description": "Both palms pressed flat together at chest level in Indian greeting.",
+      "keywords": [
+        "namaste",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "greetings_social",
+      "word": "welcome",
+      "hindi": "स्वागत है",
+      "kannada": "ಸ್ವಾಗತ",
+      "sign_description": "Both open palms face upward moving gently towards chest.",
+      "keywords": [
+        "welcome",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "greetings_social",
+      "word": "good morning",
+      "hindi": "शुभ प्रभात",
+      "kannada": "ಶುಭೋದಯ",
+      "sign_description": "Sign GOOD (thumbs up to chin) followed by MORNING (sun rising with curved hand).",
+      "keywords": [
+        "good",
+        "morning",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "greetings_social",
+      "word": "good afternoon",
+      "hindi": "शुभ दोपहर",
+      "kannada": "ಶುಭ ಮಧ್ಯಾಹ್ನ",
+      "sign_description": "Sign GOOD followed by right arm resting bent at horizon indicating midday sun.",
+      "keywords": [
+        "good",
+        "afternoon",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "greetings_social",
+      "word": "good evening",
+      "hindi": "शुभ संध्या",
+      "kannada": "ಶುಭ ಸಂಜೆ",
+      "sign_description": "Sign GOOD followed by hand descending symbolizing sunset.",
+      "keywords": [
+        "good",
+        "evening",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "greetings_social",
+      "word": "good night",
+      "hindi": "शुभ रात्रि",
+      "kannada": "ಶುಭ ರಾತ್ರಿ",
+      "sign_description": "Sign GOOD followed by hands crossing in front like closing daylight.",
+      "keywords": [
+        "good",
+        "night",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "greetings_social",
+      "word": "thank you",
+      "hindi": "धन्यवाद",
+      "kannada": "ಧನ್ಯವಾದಗಳು",
+      "sign_description": "Fingertips of flat right hand touch chin and move outward toward person.",
+      "keywords": [
+        "thank",
+        "you",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "greetings_social",
+      "word": "sorry",
+      "hindi": "माफ़ कीजिए",
+      "kannada": "ಕ್ಷಮಿಸಿ",
+      "sign_description": "Right closed fist makes circular motion on chest over heart with remorseful look.",
+      "keywords": [
+        "sorry",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "greetings_social",
+      "word": "please",
+      "hindi": "कृपया",
+      "kannada": "ದಯವಿಟ್ಟು",
+      "sign_description": "Flat open right hand rubs circular clockwise motion on chest.",
+      "keywords": [
+        "please",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "greetings_social",
+      "word": "excuse me",
+      "hindi": "क्षमा करें",
+      "kannada": "ಮನ್ನಿಸಿ",
+      "sign_description": "Tips of fingers of right hand scrape upward across left flat palm twice.",
+      "keywords": [
+        "excuse",
+        "me",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "greetings_social",
+      "word": "goodbye",
+      "hindi": "अलविदा",
+      "kannada": "ವಿದಾಯ",
+      "sign_description": "Open right hand with fingers bending together up and down.",
+      "keywords": [
+        "goodbye",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "greetings_social",
+      "word": "nice to meet you",
+      "hindi": "आपसे मिलकर अच्छा लगा",
+      "kannada": "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿದ್ದು ಸಂತೋಷವಾಯಿತು",
+      "sign_description": "Sign NICE (palms sliding) + MEET (index fingers coming together).",
+      "keywords": [
+        "nice",
+        "to",
+        "meet",
+        "you",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "greetings_social",
+      "word": "how are you",
+      "hindi": "आप कैसे हैं?",
+      "kannada": "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "sign_description": "Curved palms touch chest then turn upward and open toward listener with questioning look.",
+      "keywords": [
+        "how",
+        "are",
+        "you",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "greetings_social",
+      "word": "i am fine",
+      "hindi": "मैं ठीक हूँ",
+      "kannada": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+      "sign_description": "Thumb of right open 5 hand touches chest twice with confident smile.",
+      "keywords": [
+        "i",
+        "am",
+        "fine",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "greetings_social",
+      "word": "see you later",
+      "hindi": "बाद में मिलते हैं",
+      "kannada": "ನಂತರ ನೋಡೋಣ",
+      "sign_description": "Two fingers point from eyes then thumb & index form L moving forward.",
+      "keywords": [
+        "see",
+        "you",
+        "later",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "greetings_social",
+      "word": "take care",
+      "hindi": "अपना ख्याल रखें",
+      "kannada": "ಜಾಗರೂಕರಾಗಿರಿ",
+      "sign_description": "Both K-hands tap wrists one on top of the other twice.",
+      "keywords": [
+        "take",
+        "care",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "greetings_social",
+      "word": "yes",
+      "hindi": "हाँ",
+      "kannada": "ಹೌದು",
+      "sign_description": "Closed fist nods up and down like a head nodding affirmatively.",
+      "keywords": [
+        "yes",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "greetings_social",
+      "word": "no",
+      "hindi": "नहीं",
+      "kannada": "ಇಲ್ಲ",
+      "sign_description": "Index and middle fingers snap shut against thumb firmly.",
+      "keywords": [
+        "no",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "greetings_social",
+      "word": "agree",
+      "hindi": "सहमत",
+      "kannada": "ಒಪ್ಪಿಗೆ",
+      "sign_description": "Index finger touches forehead then points forward parallel with other hand.",
+      "keywords": [
+        "agree",
+        "greetings_social"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "medical_emergency",
+      "word": "doctor",
+      "hindi": "डॉक्टर",
+      "kannada": "ವೈದ್ಯರು",
+      "sign_description": "Right bent fingertips tap inside of left wrist checking pulse.",
+      "keywords": [
+        "doctor",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "medical_emergency",
+      "word": "nurse",
+      "hindi": "नर्स",
+      "kannada": "ಶುಶ್ರೂಷಕಿ",
+      "sign_description": "Right index and middle fingers tap cross pattern on left upper arm or forehead.",
+      "keywords": [
+        "nurse",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "medical_emergency",
+      "word": "hospital",
+      "hindi": "अस्पताल",
+      "kannada": "ಆಸ್ಪತ್ರೆ",
+      "sign_description": "Index finger draws cross (+) on left upper arm or forehead.",
+      "keywords": [
+        "hospital",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "medical_emergency",
+      "word": "emergency",
+      "hindi": "आपातकाल",
+      "kannada": "ತುರ್ತು ಪರಿಸ್ಥಿತಿ",
+      "sign_description": "Letter E hand shaken rapidly side-to-side with urgent expression.",
+      "keywords": [
+        "emergency",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "medical_emergency",
+      "word": "help",
+      "hindi": "मदद",
+      "kannada": "ಸಹಾಯ",
+      "sign_description": "Right closed fist with thumb up resting on flat left palm, raised together.",
+      "keywords": [
+        "help",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "medical_emergency",
+      "word": "pain",
+      "hindi": "दर्द",
+      "kannada": "ನೋವು",
+      "sign_description": "Both index fingers point toward each other and twist towards pain location with pained grimace.",
+      "keywords": [
+        "pain",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "medical_emergency",
+      "word": "severe pain",
+      "hindi": "गंभीर दर्द",
+      "kannada": "ತೀವ್ರ ನೋವು",
+      "sign_description": "Twisting index fingers forcefully with clenched jaw and pained eyes.",
+      "keywords": [
+        "severe",
+        "pain",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "medical_emergency",
+      "word": "medicine",
+      "hindi": "दवा",
+      "kannada": "ಔಷಧ",
+      "sign_description": "Right middle finger rubs center of left open palm in circular grinding motion.",
+      "keywords": [
+        "medicine",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "medical_emergency",
+      "word": "tablet",
+      "hindi": "गोली",
+      "kannada": "ಮಾತ್ರೆ",
+      "sign_description": "Thumb and index finger mime placing small pill on tongue.",
+      "keywords": [
+        "tablet",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "medical_emergency",
+      "word": "syrup",
+      "hindi": "सिरप / तरल दवा",
+      "kannada": "ಸಿರಪ್",
+      "sign_description": "Thumb and index mime holding small medicine cup and drinking.",
+      "keywords": [
+        "syrup",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "medical_emergency",
+      "word": "injection",
+      "hindi": "इंजेक्शन",
+      "kannada": "ಚುಚ್ಚುಮದ್ದು",
+      "sign_description": "Thumb and index fingers simulate syringe pushing plunger into left arm.",
+      "keywords": [
+        "injection",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "medical_emergency",
+      "word": "fever",
+      "hindi": "बुखार",
+      "kannada": "ಜ್ವರ",
+      "sign_description": "Back of right hand touches forehead checking body temperature.",
+      "keywords": [
+        "fever",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 33,
+      "category": "medical_emergency",
+      "word": "ambulance",
+      "hindi": "एम्बुलेंस",
+      "kannada": "ಆಂಬ್ಯುಲೆನ್ಸ್",
+      "sign_description": "Open hand above head flashes open and closed rotating like beacon light.",
+      "keywords": [
+        "ambulance",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "medical_emergency",
+      "word": "bandage",
+      "hindi": "पट्टी",
+      "kannada": "ಪಟ್ಟಿ",
+      "sign_description": "Hands wrap around imaginary limb or wrist repeatedly.",
+      "keywords": [
+        "bandage",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "medical_emergency",
+      "word": "blood",
+      "hindi": "रक्त / खून",
+      "kannada": "ರಕ್ತ",
+      "sign_description": "Index finger touches lower lip (red) then trickles down open left palm.",
+      "keywords": [
+        "blood",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "medical_emergency",
+      "word": "cough",
+      "hindi": "खाँसी",
+      "kannada": "ಕೆಮ್ಮು",
+      "sign_description": "Fist held before mouth while gently coughing twice.",
+      "keywords": [
+        "cough",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 37,
+      "category": "medical_emergency",
+      "word": "dizzy",
+      "hindi": "चक्कर आना",
+      "kannada": "ತಲೆಸುತ್ತು",
+      "sign_description": "Index finger circles above head while head tilts gently.",
+      "keywords": [
+        "dizzy",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "medical_emergency",
+      "word": "stomach ache",
+      "hindi": "पेट दर्द",
+      "kannada": "ಹೊಟ್ಟೆ ನೋವು",
+      "sign_description": "Both hands clutch stomach area with twisting circular motion.",
+      "keywords": [
+        "stomach",
+        "ache",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "medical_emergency",
+      "word": "headache",
+      "hindi": "सिरदर्द",
+      "kannada": "ತಲೆನೋವು",
+      "sign_description": "Index fingers point at temples and twist back and forth.",
+      "keywords": [
+        "headache",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "medical_emergency",
+      "word": "chest pain",
+      "hindi": "सीने में दर्द",
+      "kannada": "ಎದೆ ನೋವು",
+      "sign_description": "Right hand clutches left chest over heart with tight grimace.",
+      "keywords": [
+        "chest",
+        "pain",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 41,
+      "category": "medical_emergency",
+      "word": "allergy",
+      "hindi": "एलर्जी",
+      "kannada": "ಅಲರ್ಜಿ",
+      "sign_description": "Scratching forearm rapidly with fingertips of other hand.",
+      "keywords": [
+        "allergy",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "medical_emergency",
+      "word": "breathe",
+      "hindi": "साँस लेना",
+      "kannada": "ಉಸಿರಾಟ",
+      "sign_description": "Both hands move toward and away from chest mimicking lung expansion.",
+      "keywords": [
+        "breathe",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "medical_emergency",
+      "word": "suffocation",
+      "hindi": "दम घुटना",
+      "kannada": "ಉಸಿರುಗಟ್ಟುವಿಕೆ",
+      "sign_description": "Both hands grip neck with distressed facial expression.",
+      "keywords": [
+        "suffocation",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 44,
+      "category": "medical_emergency",
+      "word": "oxygen",
+      "hindi": "ऑक्सीजन",
+      "kannada": "ಆಮ್ಲಜನಕ",
+      "sign_description": "Cup shape hand placed over nose and mouth indicating oxygen mask.",
+      "keywords": [
+        "oxygen",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "medical_emergency",
+      "word": "surgery",
+      "hindi": "शल्यचिकित्सा",
+      "kannada": "ಶಸ್ತ್ರಚಿಕಿತ್ಸೆ",
+      "sign_description": "Thumb of right fist draws cut line across palm of open left hand.",
+      "keywords": [
+        "surgery",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "medical_emergency",
+      "word": "wheelchair",
+      "hindi": "व्हीलचेयर",
+      "kannada": "ವೀಲ್ ಚೇರ್",
+      "sign_description": "Curved hands rotate forward in circular motions like pushing wheelchair wheels.",
+      "keywords": [
+        "wheelchair",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "medical_emergency",
+      "word": "stretcher",
+      "hindi": "स्ट्रेचर",
+      "kannada": "ಸ್ಟ್ರೆಚರ್",
+      "sign_description": "Both hands hold flat imaginary poles walking horizontally.",
+      "keywords": [
+        "stretcher",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "medical_emergency",
+      "word": "pharmacy",
+      "hindi": "दवा की दुकान",
+      "kannada": "ಔಷಧಿ ಅಂಗಡಿ",
+      "sign_description": "Sign MEDICINE followed by sign STORE (hands flicking forward).",
+      "keywords": [
+        "pharmacy",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "medical_emergency",
+      "word": "thermometer",
+      "hindi": "थर्मामीटर",
+      "kannada": "ಥರ್ಮಾಮೀಟರ್",
+      "sign_description": "Index finger placed under tongue or in armpit with level indicator.",
+      "keywords": [
+        "thermometer",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 50,
+      "category": "medical_emergency",
+      "word": "wound",
+      "hindi": "घाव",
+      "kannada": "ಗಾಯ",
+      "sign_description": "Curled fingers scrape gently along arm or skin showing injury.",
+      "keywords": [
+        "wound",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 51,
+      "category": "medical_emergency",
+      "word": "infection",
+      "hindi": "संक्रमण",
+      "kannada": "ಸೋಂಕು",
+      "sign_description": "I-hand wiggles across forearm with concerned expression.",
+      "keywords": [
+        "infection",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 52,
+      "category": "medical_emergency",
+      "word": "fracture",
+      "hindi": "हड्डी टूटना",
+      "kannada": "ಮೂಳೆ ಮುರಿತ",
+      "sign_description": "Both fists snap sideways apart indicating broken bone.",
+      "keywords": [
+        "fracture",
+        "medical_emergency"
+      ]
+    },
+    {
+      "id": 53,
+      "category": "daily_needs",
+      "word": "water",
+      "hindi": "पानी",
+      "kannada": "ನೀರು",
+      "sign_description": "W-handshape (index, middle, ring fingers spread) index taps chin twice.",
+      "keywords": [
+        "water",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 54,
+      "category": "daily_needs",
+      "word": "food",
+      "hindi": "खाना",
+      "kannada": "ಆಹಾರ",
+      "sign_description": "Fingertips pressed together touch lips repeatedly.",
+      "keywords": [
+        "food",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 55,
+      "category": "daily_needs",
+      "word": "drink",
+      "hindi": "पीना",
+      "kannada": "ಕುಡಿಯಿರಿ",
+      "sign_description": "C-handshape mimics holding cup and tilting back to mouth.",
+      "keywords": [
+        "drink",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 56,
+      "category": "daily_needs",
+      "word": "restroom",
+      "hindi": "शौचालय",
+      "kannada": "ಶೌಚಾಲಯ",
+      "sign_description": "R-handshape shaken gently side-to-side or T-handshape rotated.",
+      "keywords": [
+        "restroom",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 57,
+      "category": "daily_needs",
+      "word": "toilet",
+      "hindi": "टॉयलेट",
+      "kannada": "ಶೌಚಾಲಯ",
+      "sign_description": "T-handshape wiggles gently side to side.",
+      "keywords": [
+        "toilet",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 58,
+      "category": "daily_needs",
+      "word": "sleep",
+      "hindi": "सोना",
+      "kannada": "ನಿದ್ರೆ",
+      "sign_description": "Open hand across forehead draws down closing into fist while eyes close.",
+      "keywords": [
+        "sleep",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 59,
+      "category": "daily_needs",
+      "word": "bed",
+      "hindi": "बिस्तर",
+      "kannada": "ಹಾಸಿಗೆ",
+      "sign_description": "Both hands palms together resting against cheek tilted sideways.",
+      "keywords": [
+        "bed",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 60,
+      "category": "daily_needs",
+      "word": "clean",
+      "hindi": "साफ",
+      "kannada": "ಸ್ವಚ್ಛ",
+      "sign_description": "Right open palm brushes smoothly across left open palm forward.",
+      "keywords": [
+        "clean",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 61,
+      "category": "daily_needs",
+      "word": "blanket",
+      "hindi": "कंबल",
+      "kannada": "ಕಂಬಳಿ",
+      "sign_description": "Both hands grip imaginary top edge of blanket and pull up to chest.",
+      "keywords": [
+        "blanket",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 62,
+      "category": "daily_needs",
+      "word": "pillow",
+      "hindi": "तकिया",
+      "kannada": "ದಿಂಬು",
+      "sign_description": "Both hands squeeze air near ear like fluffing a pillow.",
+      "keywords": [
+        "pillow",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 63,
+      "category": "daily_needs",
+      "word": "clothes",
+      "hindi": "कपड़े",
+      "kannada": "ಬಟ್ಟೆ",
+      "sign_description": "Thumbs brush down front of chest/shirt twice.",
+      "keywords": [
+        "clothes",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 64,
+      "category": "daily_needs",
+      "word": "light",
+      "hindi": "रोशनी / बत्ती",
+      "kannada": "ಬೆಳಕು",
+      "sign_description": "Fingers pinch then expand downward like light shining down.",
+      "keywords": [
+        "light",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 65,
+      "category": "daily_needs",
+      "word": "fan",
+      "hindi": "पंखा",
+      "kannada": "ಫ್ಯಾನ್",
+      "sign_description": "Index finger points upward rotating in circles overhead.",
+      "keywords": [
+        "fan",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 66,
+      "category": "daily_needs",
+      "word": "telephone",
+      "hindi": "फ़ोन",
+      "kannada": "ದೂರವಾಣಿ",
+      "sign_description": "Y-handshape (thumb to ear, pinky to mouth).",
+      "keywords": [
+        "telephone",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 67,
+      "category": "daily_needs",
+      "word": "chair",
+      "hindi": "कुर्सी",
+      "kannada": "ಕುರ್ಚಿ",
+      "sign_description": "Two bent fingers of right hand tap twice on two bent fingers of left hand.",
+      "keywords": [
+        "chair",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 68,
+      "category": "daily_needs",
+      "word": "door",
+      "hindi": "दरवाज़ा",
+      "kannada": "ಬಾಗಿಲು",
+      "sign_description": "B-hands touch side-by-side, right hand swings open outward.",
+      "keywords": [
+        "door",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 69,
+      "category": "daily_needs",
+      "word": "window",
+      "hindi": "खिड़की",
+      "kannada": "ಕಿಟಕಿ",
+      "sign_description": "Horizontal open hands tap and slide up and down.",
+      "keywords": [
+        "window",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 70,
+      "category": "daily_needs",
+      "word": "money",
+      "hindi": "पैसे",
+      "kannada": "ಹಣ",
+      "sign_description": "Back of thumb rubs fingertips together in currency motion.",
+      "keywords": [
+        "money",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 71,
+      "category": "daily_needs",
+      "word": "glasses",
+      "hindi": "चश्मा",
+      "kannada": "ಕನ್ನಡಕ",
+      "sign_description": "Curved index and thumb frame eyes like spectacles.",
+      "keywords": [
+        "glasses",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 72,
+      "category": "daily_needs",
+      "word": "wash",
+      "hindi": "धोना",
+      "kannada": "ತೊಳೆಯಿರಿ",
+      "sign_description": "Fists rub against each other like lathering soap.",
+      "keywords": [
+        "wash",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 73,
+      "category": "daily_needs",
+      "word": "soap",
+      "hindi": "साबुन",
+      "kannada": "ಸಾಬೂನು",
+      "sign_description": "Fingers scrape back of open palm mimicking soap lathering.",
+      "keywords": [
+        "soap",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 74,
+      "category": "daily_needs",
+      "word": "towel",
+      "hindi": "तौलिया",
+      "kannada": "ಟವೆಲ್",
+      "sign_description": "Hands hold imaginary towel behind head rubbing back and forth.",
+      "keywords": [
+        "towel",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 75,
+      "category": "daily_needs",
+      "word": "brush",
+      "hindi": "ब्रश",
+      "kannada": "ಹಲ್ಲುಜ್ಜುವ ಬ್ರಷ್",
+      "sign_description": "Index finger moves horizontally in front of teeth mimicking toothbrush.",
+      "keywords": [
+        "brush",
+        "daily_needs"
+      ]
+    },
+    {
+      "id": 76,
+      "category": "family_people",
+      "word": "mother",
+      "hindi": "माँ",
+      "kannada": "ತಾಯಿ",
+      "sign_description": "Open 5-hand thumb taps chin twice.",
+      "keywords": [
+        "mother",
+        "family_people"
+      ]
+    },
+    {
+      "id": 77,
+      "category": "family_people",
+      "word": "father",
+      "hindi": "पिता",
+      "kannada": "ತಂದೆ",
+      "sign_description": "Open 5-hand thumb taps forehead twice.",
+      "keywords": [
+        "father",
+        "family_people"
+      ]
+    },
+    {
+      "id": 78,
+      "category": "family_people",
+      "word": "sister",
+      "hindi": "बहन",
+      "kannada": "ಸಹೋದರಿ",
+      "sign_description": "Index finger touches chin then taps on top of left index finger.",
+      "keywords": [
+        "sister",
+        "family_people"
+      ]
+    },
+    {
+      "id": 79,
+      "category": "family_people",
+      "word": "brother",
+      "hindi": "भाई",
+      "kannada": "ಸಹೋದರ",
+      "sign_description": "Index finger touches forehead then taps on top of left index finger.",
+      "keywords": [
+        "brother",
+        "family_people"
+      ]
+    },
+    {
+      "id": 80,
+      "category": "family_people",
+      "word": "baby",
+      "hindi": "बच्चा",
+      "kannada": "ಮಗು",
+      "sign_description": "Both arms cradled across chest rocking side to side.",
+      "keywords": [
+        "baby",
+        "family_people"
+      ]
+    },
+    {
+      "id": 81,
+      "category": "family_people",
+      "word": "family",
+      "hindi": "परिवार",
+      "kannada": "ಕುಟುಂಬ",
+      "sign_description": "Both F-hands touching index/thumbs circle outward until pinkies meet.",
+      "keywords": [
+        "family",
+        "family_people"
+      ]
+    },
+    {
+      "id": 82,
+      "category": "family_people",
+      "word": "friend",
+      "hindi": "दोस्त",
+      "kannada": "ಸ್ನೇಹಿತ",
+      "sign_description": "Hooked index fingers link together, then reverse and link again.",
+      "keywords": [
+        "friend",
+        "family_people"
+      ]
+    },
+    {
+      "id": 83,
+      "category": "family_people",
+      "word": "person",
+      "hindi": "व्यक्ति",
+      "kannada": "ವ್ಯಕ್ತಿ",
+      "sign_description": "Both flat hands point down moving together down torso sides.",
+      "keywords": [
+        "person",
+        "family_people"
+      ]
+    },
+    {
+      "id": 84,
+      "category": "family_people",
+      "word": "child",
+      "hindi": "बच्चा",
+      "kannada": "ಮಕ್ಕಳು",
+      "sign_description": "Flat hand pats downward at waist level as if patting child head.",
+      "keywords": [
+        "child",
+        "family_people"
+      ]
+    },
+    {
+      "id": 85,
+      "category": "family_people",
+      "word": "son",
+      "hindi": "बेटा",
+      "kannada": "ಮಗ",
+      "sign_description": "Salute forehead then cradle arm like baby.",
+      "keywords": [
+        "son",
+        "family_people"
+      ]
+    },
+    {
+      "id": 86,
+      "category": "family_people",
+      "word": "daughter",
+      "hindi": "बेटी",
+      "kannada": "ಮಗಳು",
+      "sign_description": "Touch chin then cradle arm like baby.",
+      "keywords": [
+        "daughter",
+        "family_people"
+      ]
+    },
+    {
+      "id": 87,
+      "category": "family_people",
+      "word": "husband",
+      "hindi": "पति",
+      "kannada": "ಗಂಡ",
+      "sign_description": "Hand touches forehead then clasps other hand.",
+      "keywords": [
+        "husband",
+        "family_people"
+      ]
+    },
+    {
+      "id": 88,
+      "category": "family_people",
+      "word": "wife",
+      "hindi": "पत्नी",
+      "kannada": "ಹೆಂಡತಿ",
+      "sign_description": "Hand touches chin then clasps other hand.",
+      "keywords": [
+        "wife",
+        "family_people"
+      ]
+    },
+    {
+      "id": 89,
+      "category": "family_people",
+      "word": "patient",
+      "hindi": "मरीज़",
+      "kannada": "ರೋಗಿ",
+      "sign_description": "P-hand draws cross on shoulder or arm with calm expression.",
+      "keywords": [
+        "patient",
+        "family_people"
+      ]
+    },
+    {
+      "id": 90,
+      "category": "family_people",
+      "word": "interpreter",
+      "hindi": "दुभाषिया",
+      "kannada": "ಅನುವಾದಕ",
+      "sign_description": "Both F-hands touch and twist facing each other back and forth.",
+      "keywords": [
+        "interpreter",
+        "family_people"
+      ]
+    },
+    {
+      "id": 91,
+      "category": "family_people",
+      "word": "relative",
+      "hindi": "रिश्तेदार",
+      "kannada": "ಸಂಬಂಧಿ",
+      "sign_description": "R-hands interlock fingers twisting forward.",
+      "keywords": [
+        "relative",
+        "family_people"
+      ]
+    },
+    {
+      "id": 92,
+      "category": "family_people",
+      "word": "visitor",
+      "hindi": "आगंतुक",
+      "kannada": "ಸಂದರ್ಶಕ",
+      "sign_description": "V-hand moves from distance toward self followed by PERSON sign.",
+      "keywords": [
+        "visitor",
+        "family_people"
+      ]
+    },
+    {
+      "id": 93,
+      "category": "emotions_feelings",
+      "word": "happy",
+      "hindi": "खुश",
+      "kannada": "ಸಂತೋಷ",
+      "sign_description": "Open flat hands brush up chest in upward flutter with smile.",
+      "keywords": [
+        "happy",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 94,
+      "category": "emotions_feelings",
+      "word": "sad",
+      "hindi": "उदास",
+      "kannada": "ದುಃಖ",
+      "sign_description": "Open hands in front of face drop slowly downward with sad expression.",
+      "keywords": [
+        "sad",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 95,
+      "category": "emotions_feelings",
+      "word": "scared",
+      "hindi": "डरा हुआ",
+      "kannada": "ಹೆದರಿಕೆ",
+      "sign_description": "Both open hands pull inward toward chest shaking slightly.",
+      "keywords": [
+        "scared",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 96,
+      "category": "emotions_feelings",
+      "word": "angry",
+      "hindi": "क्रोधित",
+      "kannada": "ಕೋಪ",
+      "sign_description": "Claw hand starts at chest and twists violently upward toward face.",
+      "keywords": [
+        "angry",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 97,
+      "category": "emotions_feelings",
+      "word": "tired",
+      "hindi": "थका हुआ",
+      "kannada": "ದಣಿವು",
+      "sign_description": "Bent hands touch chest and roll downward and slump shoulders.",
+      "keywords": [
+        "tired",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 98,
+      "category": "emotions_feelings",
+      "word": "comfortable",
+      "hindi": "आरामदायक",
+      "kannada": "ಆರಾಮದಾಯಕ",
+      "sign_description": "Hands cup each other and stroke gently back and forth.",
+      "keywords": [
+        "comfortable",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 99,
+      "category": "emotions_feelings",
+      "word": "nervous",
+      "hindi": "घबराया हुआ",
+      "kannada": "ಆತಂಕ",
+      "sign_description": "Both hands with open fingers shake gently in front of torso.",
+      "keywords": [
+        "nervous",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 100,
+      "category": "emotions_feelings",
+      "word": "calm",
+      "hindi": "शांत",
+      "kannada": "ಶಾಂತ",
+      "sign_description": "Both open palms face down and lower smoothly through air.",
+      "keywords": [
+        "calm",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 101,
+      "category": "emotions_feelings",
+      "word": "hungry",
+      "hindi": "भूखा",
+      "kannada": "ಹಸಿದ",
+      "sign_description": "C-hand moves down middle of chest to stomach.",
+      "keywords": [
+        "hungry",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 102,
+      "category": "emotions_feelings",
+      "word": "thirsty",
+      "hindi": "प्यासा",
+      "kannada": "ಬಾಯಾರಿಕೆ",
+      "sign_description": "Index finger traces straight line down front of throat.",
+      "keywords": [
+        "thirsty",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 103,
+      "category": "emotions_feelings",
+      "word": "cold",
+      "hindi": "ठंड",
+      "kannada": "ಶೀತ",
+      "sign_description": "Both fists held close to body shaking as if shivering.",
+      "keywords": [
+        "cold",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 104,
+      "category": "emotions_feelings",
+      "word": "hot",
+      "hindi": "गर्म",
+      "kannada": "ಬಿಸಿ",
+      "sign_description": "Claw hand at mouth suddenly turns and flings away forward.",
+      "keywords": [
+        "hot",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 105,
+      "category": "emotions_feelings",
+      "word": "weak",
+      "hindi": "कमज़ोर",
+      "kannada": "ದುರ್ಬಲ",
+      "sign_description": "Tips of fingers of right hand bend and collapse against left palm.",
+      "keywords": [
+        "weak",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 106,
+      "category": "emotions_feelings",
+      "word": "strong",
+      "hindi": "मजबूत",
+      "kannada": "ಬಲಶಾಲಿ",
+      "sign_description": "Both fists flex forward displaying biceps.",
+      "keywords": [
+        "strong",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 107,
+      "category": "emotions_feelings",
+      "word": "better",
+      "hindi": "बेहतर",
+      "kannada": "ಉತ್ತಮ",
+      "sign_description": "Right hand sweeps up from chin turning into thumbs up.",
+      "keywords": [
+        "better",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 108,
+      "category": "emotions_feelings",
+      "word": "worse",
+      "hindi": "बदतर",
+      "kannada": "ಕೆಟ್ಟದಾಗಿದೆ",
+      "sign_description": "Both K-hands cross wrists and pull sharply downward.",
+      "keywords": [
+        "worse",
+        "emotions_feelings"
+      ]
+    },
+    {
+      "id": 109,
+      "category": "questions",
+      "word": "what",
+      "hindi": "क्या",
+      "kannada": "ಏನು",
+      "sign_description": "Both open palms face up shaking slightly side-to-side with quizzical look.",
+      "keywords": [
+        "what",
+        "questions"
+      ]
+    },
+    {
+      "id": 110,
+      "category": "questions",
+      "word": "where",
+      "hindi": "कहाँ",
+      "kannada": "ಎಲ್ಲಿ",
+      "sign_description": "Index finger held upright shaking left and right.",
+      "keywords": [
+        "where",
+        "questions"
+      ]
+    },
+    {
+      "id": 111,
+      "category": "questions",
+      "word": "when",
+      "hindi": "कब",
+      "kannada": "ಯಾವಾಗ",
+      "sign_description": "Right index finger circles left upright index finger and touches tip.",
+      "keywords": [
+        "when",
+        "questions"
+      ]
+    },
+    {
+      "id": 112,
+      "category": "questions",
+      "word": "why",
+      "hindi": "क्यों",
+      "kannada": "ಏಕೆ",
+      "sign_description": "Fingers touch forehead then pull away dropping into Y-handshape.",
+      "keywords": [
+        "why",
+        "questions"
+      ]
+    },
+    {
+      "id": 113,
+      "category": "questions",
+      "word": "who",
+      "hindi": "कौन",
+      "kannada": "ಯಾರು",
+      "sign_description": "Index finger circles around lips or chin questioning.",
+      "keywords": [
+        "who",
+        "questions"
+      ]
+    },
+    {
+      "id": 114,
+      "category": "questions",
+      "word": "how",
+      "hindi": "कैसे",
+      "kannada": "ಹೇಗೆ",
+      "sign_description": "Both curved hands back-to-back roll outward so palms face up.",
+      "keywords": [
+        "how",
+        "questions"
+      ]
+    },
+    {
+      "id": 115,
+      "category": "questions",
+      "word": "how much",
+      "hindi": "कितना",
+      "kannada": "ಎಷ್ಟು",
+      "sign_description": "Fingers flick upward from palms as if counting coins.",
+      "keywords": [
+        "how",
+        "much",
+        "questions"
+      ]
+    },
+    {
+      "id": 116,
+      "category": "questions",
+      "word": "which",
+      "hindi": "कौन सा",
+      "kannada": "ಯಾವುದು",
+      "sign_description": "Both thumbs up alternate moving up and down.",
+      "keywords": [
+        "which",
+        "questions"
+      ]
+    },
+    {
+      "id": 117,
+      "category": "questions",
+      "word": "can you",
+      "hindi": "क्या आप कर सकते हैं",
+      "kannada": "ನೀವು ಮಾಡಬಹುದೇ",
+      "sign_description": "Both fists move down firmly nodding head.",
+      "keywords": [
+        "can",
+        "you",
+        "questions"
+      ]
+    },
+    {
+      "id": 118,
+      "category": "questions",
+      "word": "is it possible",
+      "hindi": "क्या यह संभव है",
+      "kannada": "ಇದು ಸಾಧ್ಯವೇ",
+      "sign_description": "Flat hand moves forward questioning with raised eyebrows.",
+      "keywords": [
+        "is",
+        "it",
+        "possible",
+        "questions"
+      ]
+    },
+    {
+      "id": 119,
+      "category": "questions",
+      "word": "how many",
+      "hindi": "कितने",
+      "kannada": "ಎಷ್ಟು ಜನ",
+      "sign_description": "Both open hands flick fingers upward from closed fists.",
+      "keywords": [
+        "how",
+        "many",
+        "questions"
+      ]
+    },
+    {
+      "id": 120,
+      "category": "time_numbers",
+      "word": "now",
+      "hindi": "अब",
+      "kannada": "ಈಗ",
+      "sign_description": "Both Y-hands drop downward firmly.",
+      "keywords": [
+        "now",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 121,
+      "category": "time_numbers",
+      "word": "today",
+      "hindi": "आज",
+      "kannada": "ಇಂದು",
+      "sign_description": "Sign NOW twice or POINT DOWN + DAY.",
+      "keywords": [
+        "today",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 122,
+      "category": "time_numbers",
+      "word": "tomorrow",
+      "hindi": "कल (आने वाला)",
+      "kannada": "ನಾಳೆ",
+      "sign_description": "Right thumb rests on cheek then arches forward in open A-shape.",
+      "keywords": [
+        "tomorrow",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 123,
+      "category": "time_numbers",
+      "word": "yesterday",
+      "hindi": "कल (बीता हुआ)",
+      "kannada": "ನಿನ್ನೆ",
+      "sign_description": "Thumb of A-hand touches cheek then moves back to ear.",
+      "keywords": [
+        "yesterday",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 124,
+      "category": "time_numbers",
+      "word": "time",
+      "hindi": "समय",
+      "kannada": "ಸಮಯ",
+      "sign_description": "Index finger taps back of left wrist twice where watch sits.",
+      "keywords": [
+        "time",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 125,
+      "category": "time_numbers",
+      "word": "minute",
+      "hindi": "मिनट",
+      "kannada": "ನಿಮಿಷ",
+      "sign_description": "Right index finger acts like minute hand ticking on left open palm.",
+      "keywords": [
+        "minute",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 126,
+      "category": "time_numbers",
+      "word": "hour",
+      "hindi": "घंटा",
+      "kannada": "ಗಂಟೆ",
+      "sign_description": "Right index finger completes full circle on left flat palm.",
+      "keywords": [
+        "hour",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 127,
+      "category": "time_numbers",
+      "word": "day",
+      "hindi": "दिन",
+      "kannada": "ದಿನ",
+      "sign_description": "Right arm rests on left arm like horizon, pointing finger sweeps across.",
+      "keywords": [
+        "day",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 128,
+      "category": "time_numbers",
+      "word": "night",
+      "hindi": "रात",
+      "kannada": "ರಾತ್ರಿ",
+      "sign_description": "Bent right wrist arches down over left horizontal arm.",
+      "keywords": [
+        "night",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 129,
+      "category": "time_numbers",
+      "word": "morning",
+      "hindi": "सुबह",
+      "kannada": "ಬೆಳಿಗ್ಗೆ",
+      "sign_description": "Right palm rises up behind left horizontal forearm.",
+      "keywords": [
+        "morning",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 130,
+      "category": "time_numbers",
+      "word": "afternoon",
+      "hindi": "दोपहर",
+      "kannada": "ಮಧ್ಯಾಹ್ನ",
+      "sign_description": "Right forearm rests on left hand at slight angle forward.",
+      "keywords": [
+        "afternoon",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 131,
+      "category": "time_numbers",
+      "word": "week",
+      "hindi": "सप्ताह",
+      "kannada": "ವಾರ",
+      "sign_description": "Right index finger slides across open left palm from wrist to fingertips.",
+      "keywords": [
+        "week",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 132,
+      "category": "time_numbers",
+      "word": "month",
+      "hindi": "महीना",
+      "kannada": "ತಿಂಗಳು",
+      "sign_description": "Right index finger slides down back of upright left index finger.",
+      "keywords": [
+        "month",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 133,
+      "category": "time_numbers",
+      "word": "year",
+      "hindi": "साल",
+      "kannada": "ವರ್ಷ",
+      "sign_description": "Right fist circles around left fist and lands on top.",
+      "keywords": [
+        "year",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 134,
+      "category": "time_numbers",
+      "word": "zero",
+      "hindi": "शून्य",
+      "kannada": "ಶೂನ್ಯ",
+      "sign_description": "Fingers curled into O shape.",
+      "keywords": [
+        "zero",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 135,
+      "category": "time_numbers",
+      "word": "one",
+      "hindi": "एक",
+      "kannada": "ಒಂದು",
+      "sign_description": "Index finger upright.",
+      "keywords": [
+        "one",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 136,
+      "category": "time_numbers",
+      "word": "two",
+      "hindi": "दो",
+      "kannada": "ಎರಡು",
+      "sign_description": "Index and middle fingers upright in V shape.",
+      "keywords": [
+        "two",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 137,
+      "category": "time_numbers",
+      "word": "three",
+      "hindi": "तीन",
+      "kannada": "ಮೂರು",
+      "sign_description": "Thumb, index, and middle fingers extended.",
+      "keywords": [
+        "three",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 138,
+      "category": "time_numbers",
+      "word": "four",
+      "hindi": "चार",
+      "kannada": "ನಾಲ್ಕು",
+      "sign_description": "Four fingers extended upward with thumb folded.",
+      "keywords": [
+        "four",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 139,
+      "category": "time_numbers",
+      "word": "five",
+      "hindi": "पाँच",
+      "kannada": "ಐದು",
+      "sign_description": "All five fingers spread wide.",
+      "keywords": [
+        "five",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 140,
+      "category": "time_numbers",
+      "word": "six",
+      "hindi": "छह",
+      "kannada": "ಆರು",
+      "sign_description": "Thumb and pinky touch, three middle fingers up.",
+      "keywords": [
+        "six",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 141,
+      "category": "time_numbers",
+      "word": "seven",
+      "hindi": "सात",
+      "kannada": "ಏಳು",
+      "sign_description": "Thumb and ring finger touch.",
+      "keywords": [
+        "seven",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 142,
+      "category": "time_numbers",
+      "word": "eight",
+      "hindi": "आठ",
+      "kannada": "ಎಂಟು",
+      "sign_description": "Thumb and middle finger touch.",
+      "keywords": [
+        "eight",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 143,
+      "category": "time_numbers",
+      "word": "nine",
+      "hindi": "नौ",
+      "kannada": "ಒಂಬತ್ತು",
+      "sign_description": "Thumb and index finger touch.",
+      "keywords": [
+        "nine",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 144,
+      "category": "time_numbers",
+      "word": "ten",
+      "hindi": "दस",
+      "kannada": "ಹತ್ತು",
+      "sign_description": "Both hands flash five or thumb extended upright shaking.",
+      "keywords": [
+        "ten",
+        "time_numbers"
+      ]
+    },
+    {
+      "id": 145,
+      "category": "actions_verbs",
+      "word": "come",
+      "hindi": "आओ",
+      "kannada": "ಬನ್ನಿ",
+      "sign_description": "Both index fingers point outward then curl toward body.",
+      "keywords": [
+        "come",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 146,
+      "category": "actions_verbs",
+      "word": "go",
+      "hindi": "जाओ",
+      "kannada": "ಹೋಗಿ",
+      "sign_description": "Both index fingers swing outward away from body.",
+      "keywords": [
+        "go",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 147,
+      "category": "actions_verbs",
+      "word": "sit",
+      "hindi": "बैठो",
+      "kannada": "ಕುಳಿತುಕೊಳ್ಳಿ",
+      "sign_description": "Bent fingers of right hand drape over bent fingers of left hand.",
+      "keywords": [
+        "sit",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 148,
+      "category": "actions_verbs",
+      "word": "stand",
+      "hindi": "खड़े रहो",
+      "kannada": "ನಿಲ್ಲಿ",
+      "sign_description": "V-fingers of right hand stand upright on flat left palm.",
+      "keywords": [
+        "stand",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 149,
+      "category": "actions_verbs",
+      "word": "walk",
+      "hindi": "चलना",
+      "kannada": "ನಡೆಯಿರಿ",
+      "sign_description": "Flat hands alternate stepping forward through the air.",
+      "keywords": [
+        "walk",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 150,
+      "category": "actions_verbs",
+      "word": "stop",
+      "hindi": "रुको",
+      "kannada": "ನಿಲ್ಲಿಸಿ",
+      "sign_description": "Right hand chops firmly down into open palm of left hand.",
+      "keywords": [
+        "stop",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 151,
+      "category": "actions_verbs",
+      "word": "wait",
+      "hindi": "प्रतीक्षा करें",
+      "kannada": "ಕಾಯಿರಿ",
+      "sign_description": "Hands held forward with wiggling fingers patiently.",
+      "keywords": [
+        "wait",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 152,
+      "category": "actions_verbs",
+      "word": "call",
+      "hindi": "बुलाओ",
+      "kannada": "ಕರೆಯಿರಿ",
+      "sign_description": "Right hand cups mouth or waves toward chest calling someone.",
+      "keywords": [
+        "call",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 153,
+      "category": "actions_verbs",
+      "word": "write",
+      "hindi": "लिखो",
+      "kannada": "ಬರೆಯಿರಿ",
+      "sign_description": "Right hand mimics holding pen and writing on left palm.",
+      "keywords": [
+        "write",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 154,
+      "category": "actions_verbs",
+      "word": "read",
+      "hindi": "पढ़ो",
+      "kannada": "ಓದಿ",
+      "sign_description": "V-fingers point down moving across left open palm like scanning page.",
+      "keywords": [
+        "read",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 155,
+      "category": "actions_verbs",
+      "word": "speak",
+      "hindi": "बोलो",
+      "kannada": "ಮಾತನಾಡಿ",
+      "sign_description": "Index finger taps lips or 4-hand flutters at mouth.",
+      "keywords": [
+        "speak",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 156,
+      "category": "actions_verbs",
+      "word": "listen",
+      "hindi": "सुनो",
+      "kannada": "ಕೇಳಿ",
+      "sign_description": "Cupped hand placed behind right ear leaning forward.",
+      "keywords": [
+        "listen",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 157,
+      "category": "actions_verbs",
+      "word": "see",
+      "hindi": "देखो",
+      "kannada": "ನೋಡಿ",
+      "sign_description": "V-fingers point from eyes forward toward object.",
+      "keywords": [
+        "see",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 158,
+      "category": "actions_verbs",
+      "word": "give",
+      "hindi": "दो",
+      "kannada": "ಕೊಡಿ",
+      "sign_description": "Both open hands move forward extending from chest.",
+      "keywords": [
+        "give",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 159,
+      "category": "actions_verbs",
+      "word": "take",
+      "hindi": "लो",
+      "kannada": "ತೆಗೆದುಕೊಳ್ಳಿ",
+      "sign_description": "Open hands reach outward then close into fists pulling inward.",
+      "keywords": [
+        "take",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 160,
+      "category": "actions_verbs",
+      "word": "open",
+      "hindi": "खोलो",
+      "kannada": "ತೆರೆಯಿರಿ",
+      "sign_description": "Both flat hands touch edges then swing apart outward.",
+      "keywords": [
+        "open",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 161,
+      "category": "actions_verbs",
+      "word": "close",
+      "hindi": "बंद करो",
+      "kannada": "ಮುಚ್ಚಿ",
+      "sign_description": "Both flat hands apart swing together touching edges.",
+      "keywords": [
+        "close",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 162,
+      "category": "actions_verbs",
+      "word": "start",
+      "hindi": "शुरू करो",
+      "kannada": "ಪ್ರಾರಂಭಿಸಿ",
+      "sign_description": "Index finger placed between index and middle finger of left hand and twists.",
+      "keywords": [
+        "start",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 163,
+      "category": "actions_verbs",
+      "word": "finish",
+      "hindi": "ख़त्म हुआ",
+      "kannada": "ಮುಗಿಯಿತು",
+      "sign_description": "Both 5-hands held chest high flick outward palms facing down.",
+      "keywords": [
+        "finish",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 164,
+      "category": "actions_verbs",
+      "word": "understand",
+      "hindi": "समझना",
+      "kannada": "ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ",
+      "sign_description": "Flick index finger upward next to temple like a light bulb clicking on.",
+      "keywords": [
+        "understand",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 165,
+      "category": "actions_verbs",
+      "word": "remember",
+      "hindi": "याद रखना",
+      "kannada": "ನೆನಪಿಸಿಕೊಳ್ಳಿ",
+      "sign_description": "Thumb of A-hand touches forehead then touches thumb of left A-hand.",
+      "keywords": [
+        "remember",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 166,
+      "category": "actions_verbs",
+      "word": "forget",
+      "hindi": "भूल जाना",
+      "kannada": "ಮರೆತುಹೋಗಿದೆ",
+      "sign_description": "Flat hand wipes across forehead from left to right as if erasing.",
+      "keywords": [
+        "forget",
+        "actions_verbs"
+      ]
+    },
+    {
+      "id": 167,
+      "category": "food_nutrition",
+      "word": "milk",
+      "hindi": "दूध",
+      "kannada": "ಹಾಲು",
+      "sign_description": "Right fist opens and closes twice mimicking milking motion.",
+      "keywords": [
+        "milk",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 168,
+      "category": "food_nutrition",
+      "word": "tea",
+      "hindi": "चाय",
+      "kannada": "ಚಹಾ",
+      "sign_description": "F-hand holds imaginary teabag dipping into left cupped C-hand.",
+      "keywords": [
+        "tea",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 169,
+      "category": "food_nutrition",
+      "word": "coffee",
+      "hindi": "कॉफ़ी",
+      "kannada": "ಕಾಫಿ",
+      "sign_description": "Both fists rotate on top of each other like grinding beans.",
+      "keywords": [
+        "coffee",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 170,
+      "category": "food_nutrition",
+      "word": "rice",
+      "hindi": "चावल",
+      "kannada": "ಅನ್ನ",
+      "sign_description": "Hand scoops imaginary grain from palm to mouth.",
+      "keywords": [
+        "rice",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 171,
+      "category": "food_nutrition",
+      "word": "bread",
+      "hindi": "रोटी / ब्रेड",
+      "kannada": "ರೊಟ್ಟಿ / ಬ್ರೆಡ್",
+      "sign_description": "Side of right pinky slices downward across back of left wrist.",
+      "keywords": [
+        "bread",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 172,
+      "category": "food_nutrition",
+      "word": "fruit",
+      "hindi": "फल",
+      "kannada": "ಹಣ್ಣು",
+      "sign_description": "F-hand twists against right cheek with sweet expression.",
+      "keywords": [
+        "fruit",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 173,
+      "category": "food_nutrition",
+      "word": "vegetables",
+      "hindi": "सब्ज़ियाँ",
+      "kannada": "ತರಕಾರಿಗಳು",
+      "sign_description": "V-handshape twists at cheek corner.",
+      "keywords": [
+        "vegetables",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 174,
+      "category": "food_nutrition",
+      "word": "apple",
+      "hindi": "सेब",
+      "kannada": "ಸೇಬು",
+      "sign_description": "Knuckle of bent index finger twists against cheek.",
+      "keywords": [
+        "apple",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 175,
+      "category": "food_nutrition",
+      "word": "banana",
+      "hindi": "केला",
+      "kannada": "ಬಾಳೆಹಣ್ಣು",
+      "sign_description": "Left index finger acts as banana, right fingers peel down sides.",
+      "keywords": [
+        "banana",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 176,
+      "category": "food_nutrition",
+      "word": "soup",
+      "hindi": "सूप",
+      "kannada": "ಸೂಪ್",
+      "sign_description": "Curved fingers mimic spoon scooping from left palm to mouth.",
+      "keywords": [
+        "soup",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 177,
+      "category": "food_nutrition",
+      "word": "sugar",
+      "hindi": "चीनी",
+      "kannada": "ಸಕ್ಕರೆ",
+      "sign_description": "Fingertips rub downward across chin twice.",
+      "keywords": [
+        "sugar",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 178,
+      "category": "food_nutrition",
+      "word": "salt",
+      "hindi": "नमक",
+      "kannada": "ಉಪ್ಪು",
+      "sign_description": "Two fingers of right hand tap two fingers of left hand twice.",
+      "keywords": [
+        "salt",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 179,
+      "category": "food_nutrition",
+      "word": "water bottle",
+      "hindi": "पानी की बोतल",
+      "kannada": "ನೀರಿನ ಬಾಟಲ್",
+      "sign_description": "Sign WATER followed by C-hands forming cylinder.",
+      "keywords": [
+        "water",
+        "bottle",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 180,
+      "category": "food_nutrition",
+      "word": "juice",
+      "hindi": "जूस",
+      "kannada": "ಜ್ಯೂಸ್",
+      "sign_description": "J-letter handshape drawn from corner of mouth.",
+      "keywords": [
+        "juice",
+        "food_nutrition"
+      ]
+    },
+    {
+      "id": 181,
+      "category": "alphabet_signs",
+      "word": "a",
+      "hindi": "ए",
+      "kannada": "ಎ",
+      "sign_description": "Fist with thumb resting along side of index finger.",
+      "keywords": [
+        "a",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 182,
+      "category": "alphabet_signs",
+      "word": "b",
+      "hindi": "बी",
+      "kannada": "ಬಿ",
+      "sign_description": "Flat hand with four fingers straight up, thumb folded across palm.",
+      "keywords": [
+        "b",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 183,
+      "category": "alphabet_signs",
+      "word": "c",
+      "hindi": "सी",
+      "kannada": "ಸಿ",
+      "sign_description": "Curved hand forming C shape.",
+      "keywords": [
+        "c",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 184,
+      "category": "alphabet_signs",
+      "word": "d",
+      "hindi": "डी",
+      "kannada": "ಡಿ",
+      "sign_description": "Index finger points straight up, thumb touches other three curled fingers.",
+      "keywords": [
+        "d",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 185,
+      "category": "alphabet_signs",
+      "word": "e",
+      "hindi": "ई",
+      "kannada": "ಇ",
+      "sign_description": "Curled fingers rest tips on thumb.",
+      "keywords": [
+        "e",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 186,
+      "category": "alphabet_signs",
+      "word": "f",
+      "hindi": "एफ़",
+      "kannada": "ಎಫ್",
+      "sign_description": "Index and thumb form circle, other three fingers upright.",
+      "keywords": [
+        "f",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 187,
+      "category": "alphabet_signs",
+      "word": "g",
+      "hindi": "जी",
+      "kannada": "ಜಿ",
+      "sign_description": "Index finger and thumb extend parallel horizontally pointing left.",
+      "keywords": [
+        "g",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 188,
+      "category": "alphabet_signs",
+      "word": "h",
+      "hindi": "एच",
+      "kannada": "ಎಚ್",
+      "sign_description": "Index and middle fingers extend horizontally side-by-side.",
+      "keywords": [
+        "h",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 189,
+      "category": "alphabet_signs",
+      "word": "i",
+      "hindi": "आई",
+      "kannada": "ಐ",
+      "sign_description": "Pinky finger points straight up from closed fist.",
+      "keywords": [
+        "i",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 190,
+      "category": "alphabet_signs",
+      "word": "j",
+      "hindi": "जे",
+      "kannada": "ಜೆ",
+      "sign_description": "Pinky finger traces letter J path in the air.",
+      "keywords": [
+        "j",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 191,
+      "category": "alphabet_signs",
+      "word": "k",
+      "hindi": "के",
+      "kannada": "ಕೆ",
+      "sign_description": "Index finger upright, middle finger forward, thumb at base of middle.",
+      "keywords": [
+        "k",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 192,
+      "category": "alphabet_signs",
+      "word": "l",
+      "hindi": "एल",
+      "kannada": "ಎಲ್",
+      "sign_description": "Index finger and thumb extend forming right-angle L shape.",
+      "keywords": [
+        "l",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 193,
+      "category": "alphabet_signs",
+      "word": "m",
+      "hindi": "एम",
+      "kannada": "ಎಮ್",
+      "sign_description": "Thumb tucked under three middle fingers extending over it.",
+      "keywords": [
+        "m",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 194,
+      "category": "alphabet_signs",
+      "word": "n",
+      "hindi": "एन",
+      "kannada": "ಎನ್",
+      "sign_description": "Thumb tucked under index and middle fingers extending over it.",
+      "keywords": [
+        "n",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 195,
+      "category": "alphabet_signs",
+      "word": "o",
+      "hindi": "ओ",
+      "kannada": "ಒ",
+      "sign_description": "All fingertips touch thumb forming O circle.",
+      "keywords": [
+        "o",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 196,
+      "category": "alphabet_signs",
+      "word": "p",
+      "hindi": "पी",
+      "kannada": "ಪಿ",
+      "sign_description": "K handshape pointing downward.",
+      "keywords": [
+        "p",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 197,
+      "category": "alphabet_signs",
+      "word": "q",
+      "hindi": "क्यू",
+      "kannada": "ಕ್ಯೂ",
+      "sign_description": "G handshape pointing downward.",
+      "keywords": [
+        "q",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 198,
+      "category": "alphabet_signs",
+      "word": "r",
+      "hindi": "आर",
+      "kannada": "ಆರ್",
+      "sign_description": "Index and middle fingers crossed.",
+      "keywords": [
+        "r",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 199,
+      "category": "alphabet_signs",
+      "word": "s",
+      "hindi": "एस",
+      "kannada": "ಎಸ್",
+      "sign_description": "Closed fist with thumb wrapped across front of fingers.",
+      "keywords": [
+        "s",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 200,
+      "category": "alphabet_signs",
+      "word": "t",
+      "hindi": "टी",
+      "kannada": "ಟಿ",
+      "sign_description": "Thumb tucked between index and middle fingers of fist.",
+      "keywords": [
+        "t",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 201,
+      "category": "alphabet_signs",
+      "word": "u",
+      "hindi": "यू",
+      "kannada": "ಯು",
+      "sign_description": "Index and middle fingers held straight up together.",
+      "keywords": [
+        "u",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 202,
+      "category": "alphabet_signs",
+      "word": "v",
+      "hindi": "वी",
+      "kannada": "ವಿ",
+      "sign_description": "Index and middle fingers held straight up spread in V shape.",
+      "keywords": [
+        "v",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 203,
+      "category": "alphabet_signs",
+      "word": "w",
+      "hindi": "डब्ल्यू",
+      "kannada": "ಡಬ್ಲ್ಯೂ",
+      "sign_description": "Index, middle, and ring fingers spread upright forming W.",
+      "keywords": [
+        "w",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 204,
+      "category": "alphabet_signs",
+      "word": "x",
+      "hindi": "एक्स",
+      "kannada": "ಎಕ್ಸ್",
+      "sign_description": "Index finger bent like a hook from closed fist.",
+      "keywords": [
+        "x",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 205,
+      "category": "alphabet_signs",
+      "word": "y",
+      "hindi": "वाई",
+      "kannada": "ವೈ",
+      "sign_description": "Thumb and pinky extended, middle three fingers folded.",
+      "keywords": [
+        "y",
+        "alphabet_signs"
+      ]
+    },
+    {
+      "id": 206,
+      "category": "alphabet_signs",
+      "word": "z",
+      "hindi": "ज़ेड",
+      "kannada": "ಝಡ್",
+      "sign_description": "Index finger traces the shape of Z in the air.",
+      "keywords": [
+        "z",
+        "alphabet_signs"
+      ]
+    }
+  ]
+}

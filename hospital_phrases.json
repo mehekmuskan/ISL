@@ -1,0 +1,2121 @@
+{
+  "total_phrases": 115,
+  "total_categories": 12,
+  "categories": [
+    "emergency_urgent",
+    "symptoms_pain",
+    "doctor_patient_dialogue",
+    "nursing_assistance",
+    "medication_pharmacy",
+    "diagnostic_tests",
+    "vital_signs_monitoring",
+    "food_diet",
+    "mobility_comfort",
+    "hygiene_restroom",
+    "discharge_admin",
+    "pediatric_maternal"
+  ],
+  "phrases": [
+    {
+      "id": 1,
+      "category": "emergency_urgent",
+      "english": "Emergency! Please call a doctor immediately.",
+      "hindi": "आपातकाल! कृपया तुरंत डॉक्टर को बुलाएं।",
+      "kannada": "ತುರ್ತು ಪರಿಸ್ಥಿತಿ! ದಯವಿಟ್ಟು ತಕ್ಷಣ ವೈದ್ಯರನ್ನು ಕರೆಯಿರಿ.",
+      "urgency": "High",
+      "sign_sequence": "EMERGENCY + CALL + DOCTOR + QUICK",
+      "keywords": [
+        "emergency",
+        "please",
+        "call",
+        "a",
+        "doctor",
+        "immediately"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "emergency_urgent",
+      "english": "I cannot breathe properly.",
+      "hindi": "मुझे ठीक से सांस नहीं आ रही है।",
+      "kannada": "ನನಗೆ ಸರಿಯಾಗಿ ಉಸಿರಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.",
+      "urgency": "High",
+      "sign_sequence": "ME + BREATHE + DIFFICULT",
+      "keywords": [
+        "i",
+        "cannot",
+        "breathe",
+        "properly"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "emergency_urgent",
+      "english": "I am experiencing severe chest pain.",
+      "hindi": "मुझे सीने में बहुत तेज दर्द हो रहा है।",
+      "kannada": "ನನಗೆ ಎದೆಯಲ್ಲಿ ತೀವ್ರ ನೋವು ಕಾಣಿಸಿಕೊಂಡಿದೆ.",
+      "urgency": "High",
+      "sign_sequence": "ME + CHEST + PAIN + SEVERE",
+      "keywords": [
+        "i",
+        "am",
+        "experiencing",
+        "severe",
+        "chest",
+        "pain"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "emergency_urgent",
+      "english": "Please help me, I feel like fainting.",
+      "hindi": "कृपया मेरी मदद करें, मुझे चक्कर आ रहे हैं।",
+      "kannada": "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ, ನನಗೆ ಪ್ರಜ್ಞೆ ತಪ್ಪಿದಂತೆ ಅನಿಸುತ್ತಿದೆ.",
+      "urgency": "High",
+      "sign_sequence": "PLEASE + HELP + ME + DIZZY + FAINT",
+      "keywords": [
+        "please",
+        "help",
+        "me",
+        "i",
+        "feel",
+        "like",
+        "fainting"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "emergency_urgent",
+      "english": "There is heavy bleeding here.",
+      "hindi": "यहाँ बहुत अधिक खून बह रहा है।",
+      "kannada": "ಇಲ್ಲಿ ಹೆಚ್ಚು ರಕ್ತಸ್ರಾವವಾಗುತ್ತಿದೆ.",
+      "urgency": "High",
+      "sign_sequence": "HERE + BLOOD + MUCH + FLOW",
+      "keywords": [
+        "there",
+        "is",
+        "heavy",
+        "bleeding",
+        "here"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "emergency_urgent",
+      "english": "I need an oxygen mask right now.",
+      "hindi": "मुझे अभी ऑक्सीजन मास्क चाहिए।",
+      "kannada": "ನನಗೆ ಈಗಲೇ ಆಮ್ಲಜನಕದ ಮಾಸ್ಕ್ ಬೇಕು.",
+      "urgency": "High",
+      "sign_sequence": "ME + OXYGEN + MASK + NEED + NOW",
+      "keywords": [
+        "i",
+        "need",
+        "an",
+        "oxygen",
+        "mask",
+        "right",
+        "now"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "emergency_urgent",
+      "english": "The patient is unresponsive.",
+      "hindi": "मरीज़ कोई प्रतिक्रिया नहीं दे रहा है।",
+      "kannada": "ರೋಗಿಯು ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡುತ್ತಿಲ್ಲ.",
+      "urgency": "High",
+      "sign_sequence": "PATIENT + RESPONSE + NO",
+      "keywords": [
+        "the",
+        "patient",
+        "is",
+        "unresponsive"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "emergency_urgent",
+      "english": "I feel sudden numbness in my face and arm.",
+      "hindi": "मेरे चेहरे और हाथ में अचानक सुन्नपन महसूस हो रहा है।",
+      "kannada": "ನನ್ನ ಮುಖ ಮತ್ತು ತೋಳಿನಲ್ಲಿ ಹಠಾತ್ ಮರಗಟ್ಟುವಿಕೆ ಅನಿಸುತ್ತಿದೆ.",
+      "urgency": "High",
+      "sign_sequence": "FACE + ARM + NUMB + SUDDEN",
+      "keywords": [
+        "i",
+        "feel",
+        "sudden",
+        "numbness",
+        "in",
+        "my",
+        "face",
+        "and",
+        "arm"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "emergency_urgent",
+      "english": "Severe allergic reaction happening.",
+      "hindi": "गंभीर एलर्जी की प्रतिक्रिया हो रही है।",
+      "kannada": "ತೀವ್ರ ಅಲರ್ಜಿ ಉಂಟಾಗುತ್ತಿದೆ.",
+      "urgency": "High",
+      "sign_sequence": "ALLERGY + SEVERE + HAPPEN",
+      "keywords": [
+        "severe",
+        "allergic",
+        "reaction",
+        "happening"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "emergency_urgent",
+      "english": "Please call the ambulance quickly.",
+      "hindi": "कृपया जल्दी एम्बुलेंस बुलाएं।",
+      "kannada": "ದಯವಿಟ್ಟು ಬೇಗ ಆಂಬ್ಯುಲೆನ್ಸ್ ಕರೆಯಿರಿ.",
+      "urgency": "High",
+      "sign_sequence": "PLEASE + AMBULANCE + CALL + QUICK",
+      "keywords": [
+        "please",
+        "call",
+        "the",
+        "ambulance",
+        "quickly"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "symptoms_pain",
+      "english": "Where does it hurt the most?",
+      "hindi": "सबसे ज्यादा दर्द कहाँ हो रहा है?",
+      "kannada": "ಎಲ್ಲಿ ಹೆಚ್ಚು ನೋವು ಆಗುತ್ತಿದೆ?",
+      "urgency": "Medium",
+      "sign_sequence": "WHERE + PAIN + MOST",
+      "keywords": [
+        "where",
+        "does",
+        "it",
+        "hurt",
+        "the",
+        "most"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "symptoms_pain",
+      "english": "My pain level is 8 out of 10.",
+      "hindi": "मेरा दर्द 10 में से 8 है।",
+      "kannada": "ನನ್ನ ನೋವಿನ ಪ್ರಮಾಣ 10 ರಲ್ಲಿ 8 ಇದೆ.",
+      "urgency": "High",
+      "sign_sequence": "PAIN + NUMBER 8 + LEVEL",
+      "keywords": [
+        "my",
+        "pain",
+        "level",
+        "is",
+        "8",
+        "out",
+        "of",
+        "10"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "symptoms_pain",
+      "english": "I have a throbbing headache.",
+      "hindi": "मेरे सिर में तेज दर्द हो रहा है।",
+      "kannada": "ನನಗೆ ತಲೆನೋವು ವಿಪರೀತವಾಗಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "HEAD + PAIN + THROBBING",
+      "keywords": [
+        "i",
+        "have",
+        "a",
+        "throbbing",
+        "headache"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "symptoms_pain",
+      "english": "I have severe stomach cramps.",
+      "hindi": "मेरे पेट में बहुत तेज मरोड़ और दर्द है।",
+      "kannada": "ನನ್ನ ಹೊಟ್ಟೆಯಲ್ಲಿ ತೀವ್ರ ಸೆಳೆತದ ನೋವಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "STOMACH + PAIN + CRAMP",
+      "keywords": [
+        "i",
+        "have",
+        "severe",
+        "stomach",
+        "cramps"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "symptoms_pain",
+      "english": "I have high fever and shivering chills.",
+      "hindi": "मुझे तेज बुखार और कंपकंपी है।",
+      "kannada": "ನನಗೆ ತೀವ್ರ ಜ್ವರ ಮತ್ತು ನಡುಕವಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "FEVER + HIGH + COLD + SHIVER",
+      "keywords": [
+        "i",
+        "have",
+        "high",
+        "fever",
+        "and",
+        "shivering",
+        "chills"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "symptoms_pain",
+      "english": "I feel persistent nausea and vomiting.",
+      "hindi": "मुझे लगातार उल्टी और मतली महसूस हो रही है।",
+      "kannada": "ನನಗೆ ವಾಂತಿ ಮತ್ತು ವಾಕರಿಕೆ ಬರುತ್ತಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "NAUSEA + VOMITING + PERSIST",
+      "keywords": [
+        "i",
+        "feel",
+        "persistent",
+        "nausea",
+        "and",
+        "vomiting"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "symptoms_pain",
+      "english": "My back pain makes it impossible to stand.",
+      "hindi": "मेरी पीठ में इतना दर्द है कि खड़ा नहीं हो पा रहा हूँ।",
+      "kannada": "ನನ್ನ ಬೆನ್ನುನೋವಿನಿಂದಾಗಿ ನಿಲ್ಲಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.",
+      "urgency": "Medium",
+      "sign_sequence": "BACK + PAIN + STAND + CANNOT",
+      "keywords": [
+        "my",
+        "back",
+        "pain",
+        "makes",
+        "it",
+        "impossible",
+        "to",
+        "stand"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "symptoms_pain",
+      "english": "I have a burning sensation when urinating.",
+      "hindi": "पेशाब करते समय जलन महसूस होती है।",
+      "kannada": "ಮೂತ್ರ ವಿಸರ್ಜನೆ ಮಾಡುವಾಗ ಉರಿ ಅನಿಸುತ್ತದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "URINE + BURNING + PAIN",
+      "keywords": [
+        "i",
+        "have",
+        "a",
+        "burning",
+        "sensation",
+        "when",
+        "urinating"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "symptoms_pain",
+      "english": "My throat is swollen and painful to swallow.",
+      "hindi": "मेरा गला सूजा हुआ है और निगलने में दर्द है।",
+      "kannada": "ನನ್ನ ಗಂಟಲು ಊದಿಕೊಂಡಿದೆ ಮತ್ತು ನುಂಗಲು ನೋವಾಗುತ್ತಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "THROAT + SWOLLEN + SWALLOW + PAIN",
+      "keywords": [
+        "my",
+        "throat",
+        "is",
+        "swollen",
+        "and",
+        "painful",
+        "to",
+        "swallow"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "symptoms_pain",
+      "english": "I feel sharp shooting pain in my leg.",
+      "hindi": "मेरे पैर में तेज चुभन वाला दर्द है।",
+      "kannada": "ನನ್ನ ಕಾಲಿನಲ್ಲಿ ಚುಚ್ಚುವಂತಹ ತೀವ್ರ ನೋವಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "LEG + PAIN + SHARP",
+      "keywords": [
+        "i",
+        "feel",
+        "sharp",
+        "shooting",
+        "pain",
+        "in",
+        "my",
+        "leg"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "doctor_patient_dialogue",
+      "english": "The doctor will examine you shortly.",
+      "hindi": "डॉक्टर जल्द ही आपकी जांच करेंगे।",
+      "kannada": "ವೈದ್ಯರು ಶೀಘ್ರದಲ್ಲೇ ನಿಮ್ಮನ್ನು ಪರೀಕ್ಷಿಸುತ್ತಾರೆ.",
+      "urgency": "Low",
+      "sign_sequence": "DOCTOR + SOON + EXAMINE + YOU",
+      "keywords": [
+        "the",
+        "doctor",
+        "will",
+        "examine",
+        "you",
+        "shortly"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "doctor_patient_dialogue",
+      "english": "How long have you had this pain?",
+      "hindi": "आपको यह दर्द कब से है?",
+      "kannada": "ನಿಮಗೆ ಈ ನೋವು ಎಷ್ಟು ದಿನಗಳಿಂದ ಇದೆ?",
+      "urgency": "Medium",
+      "sign_sequence": "HOW-LONG + YOU + PAIN + HAVE",
+      "keywords": [
+        "how",
+        "long",
+        "have",
+        "you",
+        "had",
+        "this",
+        "pain"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "doctor_patient_dialogue",
+      "english": "Do you have any existing chronic illnesses?",
+      "hindi": "क्या आपको पहले से कोई पुरानी बीमारी है?",
+      "kannada": "ನಿಮಗೆ ಯಾವುದಾದರೂ ಹಳೆಯ ದೀರ್ಘಕಾಲದ ಕಾಯಿಲೆಗಳಿವೆಯೆ?",
+      "urgency": "Medium",
+      "sign_sequence": "YOU + PAST + ILLNESS + HAVE?",
+      "keywords": [
+        "do",
+        "you",
+        "have",
+        "any",
+        "existing",
+        "chronic",
+        "illnesses"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "doctor_patient_dialogue",
+      "english": "Are you allergic to any medicines?",
+      "hindi": "क्या आपको किसी दवा से एलर्जी है?",
+      "kannada": "ನಿಮಗೆ ಯಾವುದೇ ಔಷಧಿಗಳಿಗೆ ಅಲರ್ಜಿ ಇದೆಯೇ?",
+      "urgency": "High",
+      "sign_sequence": "YOU + MEDICINE + ALLERGY + HAVE?",
+      "keywords": [
+        "are",
+        "you",
+        "allergic",
+        "to",
+        "any",
+        "medicines"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "doctor_patient_dialogue",
+      "english": "Please open your mouth and stick out your tongue.",
+      "hindi": "कृपया अपना मुंह खोलें और जीभ बाहर निकालें।",
+      "kannada": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಬಾಯಿ ತೆರೆದು ನಾಲಿಗೆಯನ್ನು ಹೊರಗೆ ತೋರಿಸಿ.",
+      "urgency": "Low",
+      "sign_sequence": "MOUTH + OPEN + TONGUE + SHOW",
+      "keywords": [
+        "please",
+        "open",
+        "your",
+        "mouth",
+        "and",
+        "stick",
+        "out",
+        "your",
+        "tongue"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "doctor_patient_dialogue",
+      "english": "Take a deep breath in and hold it.",
+      "hindi": "एक गहरी सांस लें और रोक कर रखें।",
+      "kannada": "ದೀರ್ಘವಾಗಿ ಉಸಿರನ್ನು ತೆಗೆದುಕೊಂಡು ನಿಲ್ಲಿಸಿ.",
+      "urgency": "Low",
+      "sign_sequence": "BREATHE + DEEP + HOLD",
+      "keywords": [
+        "take",
+        "a",
+        "deep",
+        "breath",
+        "in",
+        "and",
+        "hold",
+        "it"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "doctor_patient_dialogue",
+      "english": "Your test reports look stable.",
+      "hindi": "आपकी जांच रिपोर्ट सामान्य दिख रही है।",
+      "kannada": "ನಿಮ್ಮ ಪರೀಕ್ಷಾ ವರದಿಗಳು ಸ್ಥಿರವಾಗಿವೆ.",
+      "urgency": "Low",
+      "sign_sequence": "REPORT + TEST + STABLE + GOOD",
+      "keywords": [
+        "your",
+        "test",
+        "reports",
+        "look",
+        "stable"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "doctor_patient_dialogue",
+      "english": "You will need a minor procedure.",
+      "hindi": "आपको एक छोटी प्रक्रिया की आवश्यकता होगी।",
+      "kannada": "ನಿಮಗೆ ಸಣ್ಣ ಶಸ್ತ್ರಚಿಕಿತ್ಸಾ ಪ್ರಕ್ರಿಯೆ ಅಗತ್ಯವಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "YOU + PROCEDURE + SMALL + NEED",
+      "keywords": [
+        "you",
+        "will",
+        "need",
+        "a",
+        "minor",
+        "procedure"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "doctor_patient_dialogue",
+      "english": "Do not worry, you are in safe hands.",
+      "hindi": "चिंता न करें, आप सुरक्षित हाथों में हैं।",
+      "kannada": "ಚಿಂತೆ ಮಾಡಬೇಡಿ, ನೀವು ಸುರಕ್ಷಿತ ಕೈಗಳಲ್ಲಿದ್ದೀರಿ.",
+      "urgency": "Low",
+      "sign_sequence": "NOT + WORRY + YOU + SAFE",
+      "keywords": [
+        "do",
+        "not",
+        "worry",
+        "you",
+        "are",
+        "in",
+        "safe",
+        "hands"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "doctor_patient_dialogue",
+      "english": "Please sign the consent form here.",
+      "hindi": "कृपया यहाँ सहमति पत्र पर हस्ताक्षर करें।",
+      "kannada": "ದಯವಿಟ್ಟು ಇಲ್ಲಿ ಒಪ್ಪಿಗೆ ಪತ್ರಕ್ಕೆ ಸಹಿ ಮಾಡಿ.",
+      "urgency": "Low",
+      "sign_sequence": "CONSENT + PAPER + SIGN + HERE",
+      "keywords": [
+        "please",
+        "sign",
+        "the",
+        "consent",
+        "form",
+        "here"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "nursing_assistance",
+      "english": "I need assistance going to the restroom.",
+      "hindi": "मुझे शौचालय जाने के लिए सहायता चाहिए।",
+      "kannada": "ನನಗೆ ಶೌಚಾಲಯಕ್ಕೆ ಹೋಗಲು ಸಹಾಯ ಬೇಕು.",
+      "urgency": "Medium",
+      "sign_sequence": "ME + RESTROOM + GO + HELP + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "assistance",
+        "going",
+        "to",
+        "the",
+        "restroom"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "nursing_assistance",
+      "english": "The nurse is coming to check your IV drip.",
+      "hindi": "नर्स आपकी आईवी ड्रिप जांचने आ रही है।",
+      "kannada": "ಶುಶ್ರೂಷಕಿ ನಿಮ್ಮ ಐವಿ ಡ್ರಿಪ್ ಪರೀಕ್ಷಿಸಲು ಬರುತ್ತಿದ್ದಾರೆ.",
+      "urgency": "Low",
+      "sign_sequence": "NURSE + COME + DRIP + CHECK",
+      "keywords": [
+        "the",
+        "nurse",
+        "is",
+        "coming",
+        "to",
+        "check",
+        "your",
+        "iv",
+        "drip"
+      ]
+    },
+    {
+      "id": 33,
+      "category": "nursing_assistance",
+      "english": "Can you please change my bedsheets?",
+      "hindi": "क्या आप कृपया मेरी चादरें बदल सकते हैं?",
+      "kannada": "ದಯವಿಟ್ಟು ನನ್ನ ಹಾಸಿಗೆಯ ಹಾಳೆಯನ್ನು ಬದಲಾಯಿಸಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "BED + SHEET + CHANGE + PLEASE",
+      "keywords": [
+        "can",
+        "you",
+        "please",
+        "change",
+        "my",
+        "bedsheets"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "nursing_assistance",
+      "english": "My IV cannula is hurting and swollen.",
+      "hindi": "मेरा आईवी कैन्युला दर्द कर रहा है और सूज गया है।",
+      "kannada": "ನನ್ನ ಐವಿ ಸೂಜಿ ಚುಚ್ಚಿದ ಜಾಗ ನೋಯುತ್ತಿದೆ ಮತ್ತು ಊದಿಕೊಂಡಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "IV + CANNULA + PAIN + SWOLLEN",
+      "keywords": [
+        "my",
+        "iv",
+        "cannula",
+        "is",
+        "hurting",
+        "and",
+        "swollen"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "nursing_assistance",
+      "english": "Please help me sit upright in bed.",
+      "hindi": "कृपया मुझे बिस्तर पर सीधे बैठने में मदद करें।",
+      "kannada": "ದಯವಿಟ್ಟು ನಾನು ಹಾಸಿಗೆಯಲ್ಲಿ ನೆಟ್ಟಗೆ ಕುಳಿತುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡಿ.",
+      "urgency": "Low",
+      "sign_sequence": "HELP + ME + BED + SIT + UP",
+      "keywords": [
+        "please",
+        "help",
+        "me",
+        "sit",
+        "upright",
+        "in",
+        "bed"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "nursing_assistance",
+      "english": "I accidentally spilled water on the bed.",
+      "hindi": "मुझसे गलती से बिस्तर पर पानी गिर गया।",
+      "kannada": "ಆಕಸ್ಮಿಕವಾಗಿ ಹಾಸಿಗೆಯ ಮೇಲೆ ನೀರು ಚೆಲ್ಲಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "WATER + BED + SPILL + ACCIDENT",
+      "keywords": [
+        "i",
+        "accidentally",
+        "spilled",
+        "water",
+        "on",
+        "the",
+        "bed"
+      ]
+    },
+    {
+      "id": 37,
+      "category": "nursing_assistance",
+      "english": "Can you please adjust the room temperature?",
+      "hindi": "क्या आप कमरे का तापमान ठीक कर सकते हैं?",
+      "kannada": "ದಯವಿಟ್ಟು ಕೊಠಡಿಯ ತಾಪಮಾನವನ್ನು ಸರಿಹೊಂದಿಸಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "ROOM + TEMPERATURE + ADJUST + PLEASE",
+      "keywords": [
+        "can",
+        "you",
+        "please",
+        "adjust",
+        "the",
+        "room",
+        "temperature"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "nursing_assistance",
+      "english": "I need a clean gown or towel.",
+      "hindi": "मुझे एक साफ गाउन या तौलिया चाहिए।",
+      "kannada": "ನನಗೆ ಸ್ವಚ್ಛವಾದ ಗೌನ್ ಅಥವಾ ಟವೆಲ್ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "CLEAN + GOWN + TOWEL + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "a",
+        "clean",
+        "gown",
+        "or",
+        "towel"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "nursing_assistance",
+      "english": "Please call the on-duty nurse right away.",
+      "hindi": "कृपया ड्यूटी पर मौजूद नर्स को तुरंत बुलाएं।",
+      "kannada": "ದಯವಿಟ್ಟು ಕರ್ತವ್ಯದಲ್ಲಿರುವ ನರ್ಸ್ ಅವರನ್ನು ತಕ್ಷಣ ಕರೆಯಿರಿ.",
+      "urgency": "Medium",
+      "sign_sequence": "NURSE + DUTY + CALL + NOW",
+      "keywords": [
+        "please",
+        "call",
+        "the",
+        "on-duty",
+        "nurse",
+        "right",
+        "away"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "nursing_assistance",
+      "english": "The bed buzzer / call bell is not working.",
+      "hindi": "बिस्तर की कॉल बेल काम नहीं कर रही है।",
+      "kannada": "ಹಾಸಿಗೆಯ ಕರೆ ಗಂಟೆ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ.",
+      "urgency": "Medium",
+      "sign_sequence": "CALL + BELL + WORK + NOT",
+      "keywords": [
+        "the",
+        "bed",
+        "buzzer",
+        "/",
+        "call",
+        "bell",
+        "is",
+        "not",
+        "working"
+      ]
+    },
+    {
+      "id": 41,
+      "category": "medication_pharmacy",
+      "english": "It is time to take your morning medication.",
+      "hindi": "यह आपकी सुबह की दवा लेने का समय है।",
+      "kannada": "ನಿಮ್ಮ ಬೆಳಗಿನ ಔಷಧಿ ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯವಾಯಿತು.",
+      "urgency": "Low",
+      "sign_sequence": "TIME + MORNING + MEDICINE + TAKE",
+      "keywords": [
+        "it",
+        "is",
+        "time",
+        "to",
+        "take",
+        "your",
+        "morning",
+        "medication"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "medication_pharmacy",
+      "english": "Should I take this medicine before or after meals?",
+      "hindi": "क्या मुझे यह दवा खाने से पहले या बाद में लेनी चाहिए?",
+      "kannada": "ನಾನು ಈ ಔಷಧಿಯನ್ನು ಊಟಕ್ಕೆ ಮುಂಚೆ ಅಥವಾ ನಂತರ ತೆಗೆದುಕೊಳ್ಳಬೇಕೆ?",
+      "urgency": "Low",
+      "sign_sequence": "MEDICINE + FOOD + BEFORE + AFTER?",
+      "keywords": [
+        "should",
+        "i",
+        "take",
+        "this",
+        "medicine",
+        "before",
+        "or",
+        "after",
+        "meals"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "medication_pharmacy",
+      "english": "This medicine is causing dizziness.",
+      "hindi": "इस दवा से चक्कर आ रहे हैं।",
+      "kannada": "ಈ ಔಷಧಿಯಿಂದ ನನಗೆ ತಲೆಸುತ್ತು ಬರುತ್ತಿದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "THIS + MEDICINE + CAUSE + DIZZY",
+      "keywords": [
+        "this",
+        "medicine",
+        "is",
+        "causing",
+        "dizziness"
+      ]
+    },
+    {
+      "id": 44,
+      "category": "medication_pharmacy",
+      "english": "I need my painkiller medicine now.",
+      "hindi": "मुझे अभी दर्द निवारक दवा की आवश्यकता है।",
+      "kannada": "ನನಗೆ ಈಗ ನೋವು ನಿವಾರಕ ಔಷಧಿ ಬೇಕು.",
+      "urgency": "Medium",
+      "sign_sequence": "ME + PAINKILLER + MEDICINE + NEED + NOW",
+      "keywords": [
+        "i",
+        "need",
+        "my",
+        "painkiller",
+        "medicine",
+        "now"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "medication_pharmacy",
+      "english": "Is there an alternative syrup instead of this tablet?",
+      "hindi": "क्या इस गोली की जगह कोई सिरप उपलब्ध है?",
+      "kannada": "ಈ ಮಾತ್ರೆಗೆ ಬದಲಾಗಿ ಸಿರಪ್ ಲಭ್ಯವಿದೆಯೇ?",
+      "urgency": "Low",
+      "sign_sequence": "TABLET + INSTEAD + SYRUP + HAVE?",
+      "keywords": [
+        "is",
+        "there",
+        "an",
+        "alternative",
+        "syrup",
+        "instead",
+        "of",
+        "this",
+        "tablet"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "medication_pharmacy",
+      "english": "You need to take this medicine three times daily.",
+      "hindi": "आपको यह दवा दिन में तीन बार लेनी है।",
+      "kannada": "ನೀವು ಈ ಔಷಧಿಯನ್ನು ದಿನಕ್ಕೆ ಮೂರು ಬಾರಿ ತೆಗೆದುಕೊಳ್ಳಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "MEDICINE + TAKE + 3 TIMES + DAY",
+      "keywords": [
+        "you",
+        "need",
+        "to",
+        "take",
+        "this",
+        "medicine",
+        "three",
+        "times",
+        "daily"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "medication_pharmacy",
+      "english": "Please bring my insulin injection.",
+      "hindi": "कृपया मेरा इंसुलिन इंजेक्शन लाएं।",
+      "kannada": "ದಯವಿಟ್ಟು ನನ್ನ ಇನ್ಸುಲಿನ್ ಚುಚ್ಚುಮದ್ದನ್ನು ತನ್ನಿ.",
+      "urgency": "Medium",
+      "sign_sequence": "INSULIN + INJECTION + BRING + PLEASE",
+      "keywords": [
+        "please",
+        "bring",
+        "my",
+        "insulin",
+        "injection"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "medication_pharmacy",
+      "english": "I have finished my course of antibiotics.",
+      "hindi": "मेरा एंटीबायोटिक का कोर्स पूरा हो गया है।",
+      "kannada": "ನನ್ನ ಆ್ಯಂಟಿಬಯೋಟಿಕ್ ಚಿಕಿತ್ಸೆ ಮುಕ್ತಾಯಗೊಂಡಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "ANTIBIOTIC + MEDICINE + FINISH",
+      "keywords": [
+        "i",
+        "have",
+        "finished",
+        "my",
+        "course",
+        "of",
+        "antibiotics"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "medication_pharmacy",
+      "english": "This ointment needs to be applied twice a day.",
+      "hindi": "यह मलहम दिन में दो बार लगाना होगा।",
+      "kannada": "ಈ ಮುಲಾಮನ್ನು ದಿನಕ್ಕೆ ಎರಡು ಬಾರಿ ಹಚ್ಚಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "OINTMENT + APPLY + TWICE + DAY",
+      "keywords": [
+        "this",
+        "ointment",
+        "needs",
+        "to",
+        "be",
+        "applied",
+        "twice",
+        "a",
+        "day"
+      ]
+    },
+    {
+      "id": 50,
+      "category": "diagnostic_tests",
+      "english": "You need to get a blood test done.",
+      "hindi": "आपको रक्त परीक्षण (ब्लड टेस्ट) करवाना होगा।",
+      "kannada": "ನೀವು ರಕ್ತ ಪರೀಕ್ಷೆ ಮಾಡಿಸಿಕೊಳ್ಳಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "YOU + BLOOD + TEST + NEED",
+      "keywords": [
+        "you",
+        "need",
+        "to",
+        "get",
+        "a",
+        "blood",
+        "test",
+        "done"
+      ]
+    },
+    {
+      "id": 51,
+      "category": "diagnostic_tests",
+      "english": "We need to take an X-ray of your chest.",
+      "hindi": "हमें आपकी छाती का एक्स-रे लेना होगा।",
+      "kannada": "ನಾವು ನಿಮ್ಮ ಎದೆಯ ಎಕ್ಸ್-ರೇ ತೆಗೆದುಕೊಳ್ಳಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "CHEST + XRAY + TAKE + NEED",
+      "keywords": [
+        "we",
+        "need",
+        "to",
+        "take",
+        "an",
+        "x-ray",
+        "of",
+        "your",
+        "chest"
+      ]
+    },
+    {
+      "id": 52,
+      "category": "diagnostic_tests",
+      "english": "Please remain completely still during the MRI scan.",
+      "hindi": "एमआरआई स्कैन के दौरान बिल्कुल स्थिर रहें।",
+      "kannada": "ಎಂಆರ್‌ಐ ಸ್ಕ್ಯಾನ್ ಸಮಯದಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಶಾಂತರಾಗಿರಿ.",
+      "urgency": "Low",
+      "sign_sequence": "MRI + SCAN + TIME + STILL + STAY",
+      "keywords": [
+        "please",
+        "remain",
+        "completely",
+        "still",
+        "during",
+        "the",
+        "mri",
+        "scan"
+      ]
+    },
+    {
+      "id": 53,
+      "category": "diagnostic_tests",
+      "english": "You must remain fasting for the ultrasound test.",
+      "hindi": "अल्ट्रासाउंड परीक्षण के लिए आपको भूखा रहना होगा।",
+      "kannada": "ಅಲ್ಟ್ರಾಸೌಂಡ್ ಪರೀಕ್ಷೆಗೆ ನೀವು ಉಪವಾಸವಿರಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "ULTRASOUND + FASTING + FOOD + NO",
+      "keywords": [
+        "you",
+        "must",
+        "remain",
+        "fasting",
+        "for",
+        "the",
+        "ultrasound",
+        "test"
+      ]
+    },
+    {
+      "id": 54,
+      "category": "diagnostic_tests",
+      "english": "Urine sample needs to be collected in this bottle.",
+      "hindi": "इस बोतल में मूत्र का नमूना देना होगा।",
+      "kannada": "ಈ ಬಾಟಲಿಯಲ್ಲಿ ಮೂತ್ರದ ಮಾದರಿಯನ್ನು ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "URINE + SAMPLE + BOTTLE + GIVE",
+      "keywords": [
+        "urine",
+        "sample",
+        "needs",
+        "to",
+        "be",
+        "collected",
+        "in",
+        "this",
+        "bottle"
+      ]
+    },
+    {
+      "id": 55,
+      "category": "diagnostic_tests",
+      "english": "The ECG recording shows normal rhythm.",
+      "hindi": "ईसीजी रिकॉर्डिंग सामान्य ताल दिखा रही है।",
+      "kannada": "ಇಸಿಜಿ ವರದಿ ಸಹಜ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುತ್ತಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "ECG + HEART + RHYTHM + NORMAL",
+      "keywords": [
+        "the",
+        "ecg",
+        "recording",
+        "shows",
+        "normal",
+        "rhythm"
+      ]
+    },
+    {
+      "id": 56,
+      "category": "diagnostic_tests",
+      "english": "When will the biopsy laboratory results come?",
+      "hindi": "बायोप्सी प्रयोगशाला के परिणाम कब आएंगे?",
+      "kannada": "ಬಯಾಪ್ಸಿ ಪ್ರಯೋಗಾಲಯದ ವರದಿಗಳು ಯಾವಾಗ ಬರುತ್ತವೆ?",
+      "urgency": "Low",
+      "sign_sequence": "BIOPSY + RESULT + WHEN + COME?",
+      "keywords": [
+        "when",
+        "will",
+        "the",
+        "biopsy",
+        "laboratory",
+        "results",
+        "come"
+      ]
+    },
+    {
+      "id": 57,
+      "category": "diagnostic_tests",
+      "english": "CT scan is scheduled for 2:00 PM today.",
+      "hindi": "सीटी स्कैन आज दोपहर 2:00 बजे निर्धारित है।",
+      "kannada": "ಸಿಟಿ ಸ್ಕ್ಯಾನ್ ಇಂದು ಮಧ್ಯಾಹ್ನ 2:00 ಕ್ಕೆ ನಿಗದಿಯಾಗಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "CT-SCAN + TODAY + 2 PM + TIME",
+      "keywords": [
+        "ct",
+        "scan",
+        "is",
+        "scheduled",
+        "for",
+        "2:00",
+        "pm",
+        "today"
+      ]
+    },
+    {
+      "id": 58,
+      "category": "vital_signs_monitoring",
+      "english": "I am going to check your blood pressure now.",
+      "hindi": "मैं अब आपका रक्तचाप (बीपी) जांचने जा रहा हूँ।",
+      "kannada": "ನಾನು ಈಗ ನಿಮ್ಮ ರಕ್ತದೊತ್ತಡವನ್ನು ಪರೀಕ್ಷಿಸಲಿದ್ದೇನೆ.",
+      "urgency": "Low",
+      "sign_sequence": "ME + BP + CHECK + NOW",
+      "keywords": [
+        "i",
+        "am",
+        "going",
+        "to",
+        "check",
+        "your",
+        "blood",
+        "pressure",
+        "now"
+      ]
+    },
+    {
+      "id": 59,
+      "category": "vital_signs_monitoring",
+      "english": "Your blood pressure is within normal range.",
+      "hindi": "आपका रक्तचाप सामान्य सीमा के भीतर है।",
+      "kannada": "ನಿಮ್ಮ ರಕ್ತದೊತ್ತಡ ಸಹಜ ಮಟ್ಟದಲ್ಲಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "BP + NORMAL + STABLE",
+      "keywords": [
+        "your",
+        "blood",
+        "pressure",
+        "is",
+        "within",
+        "normal",
+        "range"
+      ]
+    },
+    {
+      "id": 60,
+      "category": "vital_signs_monitoring",
+      "english": "Your body temperature is 101 degrees Fahrenheit.",
+      "hindi": "आपके शरीर का तापमान 101 डिग्री फ़ारेनहाइट है।",
+      "kannada": "ನಿಮ್ಮ ದೇಹದ ಉಷ್ಣತೆ 101 ಡಿಗ್ರಿ ಇದೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "TEMPERATURE + 101 + HIGH",
+      "keywords": [
+        "your",
+        "body",
+        "temperature",
+        "is",
+        "101",
+        "degrees",
+        "fahrenheit"
+      ]
+    },
+    {
+      "id": 61,
+      "category": "vital_signs_monitoring",
+      "english": "Your oxygen saturation level is 98 percent.",
+      "hindi": "आपका ऑक्सीजन स्तर 98 प्रतिशत है।",
+      "kannada": "ನಿಮ್ಮ ಆಮ್ಲಜನಕದ ಮಟ್ಟ ಶೇಕಡಾ 98 ರಷ್ಟಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "OXYGEN + LEVEL + 98 + GOOD",
+      "keywords": [
+        "your",
+        "oxygen",
+        "saturation",
+        "level",
+        "is",
+        "98",
+        "percent"
+      ]
+    },
+    {
+      "id": 62,
+      "category": "vital_signs_monitoring",
+      "english": "Your pulse rate is slightly faster than usual.",
+      "hindi": "आपकी नब्ज़ सामान्य से थोड़ी तेज़ चल रही है।",
+      "kannada": "ನಿಮ್ಮ ನಾಡಿಮಿಡಿತ ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಹೆಚ್ಚಾಗಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "PULSE + HEART + FAST + SLIGHT",
+      "keywords": [
+        "your",
+        "pulse",
+        "rate",
+        "is",
+        "slightly",
+        "faster",
+        "than",
+        "usual"
+      ]
+    },
+    {
+      "id": 63,
+      "category": "vital_signs_monitoring",
+      "english": "Please extend your finger for the pulse oximeter.",
+      "hindi": "पल्स ऑक्सीमीटर के लिए कृपया अपनी उंगली आगे बढ़ाएं।",
+      "kannada": "ಪಲ್ಸ್ ಆಕ್ಸಿಮೀಟರ್‌ಗಾಗಿ ನಿಮ್ಮ ಬೆರಳನ್ನು ಮುಂದೆ ಚಾಚಿ.",
+      "urgency": "Low",
+      "sign_sequence": "FINGER + OXIMETER + PUT + PLEASE",
+      "keywords": [
+        "please",
+        "extend",
+        "your",
+        "finger",
+        "for",
+        "the",
+        "pulse",
+        "oximeter"
+      ]
+    },
+    {
+      "id": 64,
+      "category": "vital_signs_monitoring",
+      "english": "We need to monitor your blood sugar level.",
+      "hindi": "हमें आपके ब्लड शुगर की जांच करनी होगी।",
+      "kannada": "ನಾವು ನಿಮ್ಮ ರಕ್ತದ ಸಕ್ಕರೆ ಮಟ್ಟವನ್ನು ಪರೀಕ್ಷಿಸಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "BLOOD + SUGAR + MONITOR + NEED",
+      "keywords": [
+        "we",
+        "need",
+        "to",
+        "monitor",
+        "your",
+        "blood",
+        "sugar",
+        "level"
+      ]
+    },
+    {
+      "id": 65,
+      "category": "vital_signs_monitoring",
+      "english": "Everything looks stable on the monitor screen.",
+      "hindi": "मॉनिटर स्क्रीन पर सब कुछ स्थिर दिख रहा है।",
+      "kannada": "ಮಾನಿಟರ್ ಪರದೆಯ ಮೇಲೆ ಎಲ್ಲವೂ ಸ್ಥಿರವಾಗಿ ಕಾಣುತ್ತಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "MONITOR + VITAL + STABLE + GOOD",
+      "keywords": [
+        "everything",
+        "looks",
+        "stable",
+        "on",
+        "the",
+        "monitor",
+        "screen"
+      ]
+    },
+    {
+      "id": 66,
+      "category": "food_diet",
+      "english": "Can I get warm drinking water?",
+      "hindi": "क्या मुझे पीने के लिए गुनगुना पानी मिल सकता है?",
+      "kannada": "ನನಗೆ ಕುಡಿಯಲು ಬೆಚ್ಚಗಿನ ನೀರು ಸಿಗಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "WARM + WATER + DRINK + WANT",
+      "keywords": [
+        "can",
+        "i",
+        "get",
+        "warm",
+        "drinking",
+        "water"
+      ]
+    },
+    {
+      "id": 67,
+      "category": "food_diet",
+      "english": "Are you on a diabetic diet?",
+      "hindi": "क्या आपका मधुमेह (शुगर) वाला विशेष आहार है?",
+      "kannada": "ನಿಮಗೆ ಸಕ್ಕರೆ ಕಾಯಿಲೆಗೆ ತಕ್ಕ ಆಹಾರ ಪಥ್ಯವಿದೆಯೇ?",
+      "urgency": "Low",
+      "sign_sequence": "DIABETIC + DIET + FOOD + YOU?",
+      "keywords": [
+        "are",
+        "you",
+        "on",
+        "a",
+        "diabetic",
+        "diet"
+      ]
+    },
+    {
+      "id": 68,
+      "category": "food_diet",
+      "english": "I feel very hungry, when is dinner served?",
+      "hindi": "मुझे बहुत भूख लगी है, रात का खाना कब मिलेगा?",
+      "kannada": "ನನಗೆ ತುಂಬಾ ಹಸಿವಾಗಿದೆ, ರಾತ್ರಿಯ ಊಟ ಯಾವಾಗ?",
+      "urgency": "Low",
+      "sign_sequence": "HUNGRY + DINNER + FOOD + WHEN?",
+      "keywords": [
+        "i",
+        "feel",
+        "very",
+        "hungry",
+        "when",
+        "is",
+        "dinner",
+        "served"
+      ]
+    },
+    {
+      "id": 69,
+      "category": "food_diet",
+      "english": "I need a straw to drink liquids.",
+      "hindi": "मुझे तरल पदार्थ पीने के लिए स्ट्रॉ चाहिए।",
+      "kannada": "ನನಗೆ ದ್ರವ ಪದಾರ್ಥ ಕುಡಿಯಲು ಸ್ಟ್ರಾ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "STRAW + DRINK + LIQUID + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "a",
+        "straw",
+        "to",
+        "drink",
+        "liquids"
+      ]
+    },
+    {
+      "id": 70,
+      "category": "food_diet",
+      "english": "Doctor advised light liquid diet today.",
+      "hindi": "डॉक्टर ने आज केवल हल्का तरल आहार लेने की सलाह दी है।",
+      "kannada": "ವೈದ್ಯರು ಇಂದು ಲಘು ದ್ರವ ಆಹಾರವನ್ನು ಮಾತ್ರ ಸೂಚಿಸಿದ್ದಾರೆ.",
+      "urgency": "Low",
+      "sign_sequence": "DOCTOR + ADVISE + LIQUID + FOOD + TODAY",
+      "keywords": [
+        "doctor",
+        "advised",
+        "light",
+        "liquid",
+        "diet",
+        "today"
+      ]
+    },
+    {
+      "id": 71,
+      "category": "food_diet",
+      "english": "Can I have a cup of warm milk or tea?",
+      "hindi": "क्या मुझे एक कप गर्म दूध या चाय मिल सकती है?",
+      "kannada": "ನನಗೆ ಒಂದು ಕಪ್ ಬಿಸಿ ಹಾಲು ಅಥವಾ ಚಹಾ ಸಿಗಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "WARM + MILK + TEA + WANT",
+      "keywords": [
+        "can",
+        "i",
+        "have",
+        "a",
+        "cup",
+        "of",
+        "warm",
+        "milk",
+        "or",
+        "tea"
+      ]
+    },
+    {
+      "id": 72,
+      "category": "food_diet",
+      "english": "I cannot eat solid food due to pain.",
+      "hindi": "दर्द के कारण मैं ठोस भोजन नहीं खा पा रहा हूँ।",
+      "kannada": "ನೋವಿನ ಕಾರಣ ನನಗೆ ಗಟ್ಟಿ ಆಹಾರ ಸೇವಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.",
+      "urgency": "Medium",
+      "sign_sequence": "SOLID + FOOD + EAT + CANNOT + PAIN",
+      "keywords": [
+        "i",
+        "cannot",
+        "eat",
+        "solid",
+        "food",
+        "due",
+        "to",
+        "pain"
+      ]
+    },
+    {
+      "id": 73,
+      "category": "food_diet",
+      "english": "Please remove the finished meal tray.",
+      "hindi": "कृपया खाली खाने की ट्रे हटा दें।",
+      "kannada": "ದಯವಿಟ್ಟು ಊಟವಾದ ಖಾಲಿ ತಟ್ಟೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ.",
+      "urgency": "Low",
+      "sign_sequence": "FOOD + TRAY + FINISH + REMOVE",
+      "keywords": [
+        "please",
+        "remove",
+        "the",
+        "finished",
+        "meal",
+        "tray"
+      ]
+    },
+    {
+      "id": 74,
+      "category": "food_diet",
+      "english": "Can I get soft porridge or khichdi?",
+      "hindi": "क्या मुझे पतली खिचड़ी या दलिया मिल सकता है?",
+      "kannada": "ನನಗೆ ಮೃದುವಾದ ಕಿಚಡಿ ಅಥವಾ ಗಂಜಿ ಸಿಗಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "SOFT + KHICHDI + PORRIDGE + WANT",
+      "keywords": [
+        "can",
+        "i",
+        "get",
+        "soft",
+        "porridge",
+        "or",
+        "khichdi"
+      ]
+    },
+    {
+      "id": 75,
+      "category": "food_diet",
+      "english": "Is sugar-free tea available here?",
+      "hindi": "क्या यहाँ बिना चीनी की चाय मिल सकती है?",
+      "kannada": "ಇಲ್ಲಿ ಸಕ್ಕರೆ ರಹಿತ ಚಹಾ ಲಭ್ಯವಿದೆಯೇ?",
+      "urgency": "Low",
+      "sign_sequence": "SUGAR-FREE + TEA + AVAILABLE?",
+      "keywords": [
+        "is",
+        "sugar-free",
+        "tea",
+        "available",
+        "here"
+      ]
+    },
+    {
+      "id": 76,
+      "category": "mobility_comfort",
+      "english": "I need a wheelchair to go to the scan room.",
+      "hindi": "मुझे स्कैन कक्ष में जाने के लिए व्हीलचेयर चाहिए।",
+      "kannada": "ಸ್ಕ್ಯಾನ್ ಕೊಠಡಿಗೆ ಹೋಗಲು ನನಗೆ ವೀಲ್ ಚೇರ್ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "WHEELCHAIR + NEED + SCAN + ROOM",
+      "keywords": [
+        "i",
+        "need",
+        "a",
+        "wheelchair",
+        "to",
+        "go",
+        "to",
+        "the",
+        "scan",
+        "room"
+      ]
+    },
+    {
+      "id": 77,
+      "category": "mobility_comfort",
+      "english": "Please help me turn onto my other side.",
+      "hindi": "कृपया मुझे दूसरी करवट लेने में मदद करें।",
+      "kannada": "ದಯವಿಟ್ಟು ನಾನು ಇನ್ನೊಂದು ಬದಿಗೆ ಹೊರಳಲು ಸಹಾಯ ಮಾಡಿ.",
+      "urgency": "Low",
+      "sign_sequence": "TURN + SIDE + HELP + ME",
+      "keywords": [
+        "please",
+        "help",
+        "me",
+        "turn",
+        "onto",
+        "my",
+        "other",
+        "side"
+      ]
+    },
+    {
+      "id": 78,
+      "category": "mobility_comfort",
+      "english": "Can you adjust my pillow height?",
+      "hindi": "क्या आप मेरे तकिए की ऊंचाई ठीक कर सकते हैं?",
+      "kannada": "ನನ್ನ ದಿಂಬಿನ ಎತ್ತರವನ್ನು ಸರಿಹೊಂದಿಸಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "PILLOW + HEIGHT + ADJUST + PLEASE",
+      "keywords": [
+        "can",
+        "you",
+        "adjust",
+        "my",
+        "pillow",
+        "height"
+      ]
+    },
+    {
+      "id": 79,
+      "category": "mobility_comfort",
+      "english": "I feel too cold, please provide an extra blanket.",
+      "hindi": "मुझे बहुत ठंड लग रही है, कृपया एक अतिरिक्त कंबल दें।",
+      "kannada": "ನನಗೆ ತುಂಬಾ ಚಳಿಯಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಮತ್ತೊಂದು ಕಂಬಳಿ ಕೊಡಿ.",
+      "urgency": "Low",
+      "sign_sequence": "COLD + EXTRA + BLANKET + PLEASE",
+      "keywords": [
+        "i",
+        "feel",
+        "too",
+        "cold",
+        "please",
+        "provide",
+        "an",
+        "extra",
+        "blanket"
+      ]
+    },
+    {
+      "id": 80,
+      "category": "mobility_comfort",
+      "english": "Can you help me walk a few steps?",
+      "hindi": "क्या आप मुझे कुछ कदम चलने में मदद कर सकते हैं?",
+      "kannada": "ನಾನು ಕೆಲವು ಹೆಜ್ಜೆ ನಡೆಯಲು ಸಹಾಯ ಮಾಡುವಿರಾ?",
+      "urgency": "Low",
+      "sign_sequence": "WALK + FEW + STEPS + HELP + ME",
+      "keywords": [
+        "can",
+        "you",
+        "help",
+        "me",
+        "walk",
+        "a",
+        "few",
+        "steps"
+      ]
+    },
+    {
+      "id": 81,
+      "category": "mobility_comfort",
+      "english": "I need crutches or a walking walker.",
+      "hindi": "मुझे बैसाखी या वॉकर की आवश्यकता है।",
+      "kannada": "ನನಗೆ ಊರುಗೋಲು ಅಥವಾ ವಾಕರ್ ಅಗತ್ಯವಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "CRUTCHES + WALKER + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "crutches",
+        "or",
+        "a",
+        "walking",
+        "walker"
+      ]
+    },
+    {
+      "id": 82,
+      "category": "mobility_comfort",
+      "english": "The light is shining in my eyes, please close curtains.",
+      "hindi": "रोशनी आँखों में चुभ रही है, कृपया पर्दा लगा दें।",
+      "kannada": "ಬೆಳಕು ಕಣ್ಣಿಗೆ ತಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಪರದೆ ಹಾಕಿ.",
+      "urgency": "Low",
+      "sign_sequence": "LIGHT + BRIGHT + CURTAIN + CLOSE",
+      "keywords": [
+        "the",
+        "light",
+        "is",
+        "shining",
+        "in",
+        "my",
+        "eyes",
+        "please",
+        "close",
+        "curtains"
+      ]
+    },
+    {
+      "id": 83,
+      "category": "mobility_comfort",
+      "english": "Please raise the head of my bed slightly.",
+      "hindi": "कृपया मेरे बिस्तर का सिरा थोड़ा ऊपर उठाएं।",
+      "kannada": "ದಯವಿಟ್ಟು ನನ್ನ ಹಾಸಿಗೆಯ ತಲೆಯ ಭಾಗವನ್ನು ಸ್ವಲ್ಪ ಎತ್ತರಿಸಿ.",
+      "urgency": "Low",
+      "sign_sequence": "BED + HEAD + RAISE + PLEASE",
+      "keywords": [
+        "please",
+        "raise",
+        "the",
+        "head",
+        "of",
+        "my",
+        "bed",
+        "slightly"
+      ]
+    },
+    {
+      "id": 84,
+      "category": "mobility_comfort",
+      "english": "The room is too noisy, can we close the door?",
+      "hindi": "कमरे में बहुत शोर है, क्या दरवाजा बंद कर सकते हैं?",
+      "kannada": "ಕೋಣೆಯಲ್ಲಿ ತುಂಬಾ ಶಬ್ದವಿದೆ, ಬಾಗಿಲು ಮುಚ್ಚಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "ROOM + NOISY + DOOR + CLOSE",
+      "keywords": [
+        "the",
+        "room",
+        "is",
+        "too",
+        "noisy",
+        "can",
+        "we",
+        "close",
+        "the",
+        "door"
+      ]
+    },
+    {
+      "id": 85,
+      "category": "mobility_comfort",
+      "english": "I need help sitting on the edge of the bed.",
+      "hindi": "मुझे बिस्तर के किनारे बैठने में मदद चाहिए।",
+      "kannada": "ನನಗೆ ಹಾಸಿಗೆಯ ಅಂಚಿನಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳಲು ಸಹಾಯ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "BED + EDGE + SIT + HELP",
+      "keywords": [
+        "i",
+        "need",
+        "help",
+        "sitting",
+        "on",
+        "the",
+        "edge",
+        "of",
+        "the",
+        "bed"
+      ]
+    },
+    {
+      "id": 86,
+      "category": "hygiene_restroom",
+      "english": "I urgently need to use the washroom.",
+      "hindi": "मुझे तुरंत शौचालय जाना है।",
+      "kannada": "ನಾನು ತಕ್ಷಣ ಶೌಚಾಲಯಕ್ಕೆ ಹೋಗಬೇಕು.",
+      "urgency": "Medium",
+      "sign_sequence": "URGENT + RESTROOM + GO + NEED",
+      "keywords": [
+        "i",
+        "urgently",
+        "need",
+        "to",
+        "use",
+        "the",
+        "washroom"
+      ]
+    },
+    {
+      "id": 87,
+      "category": "hygiene_restroom",
+      "english": "I need a bedpan or urinal immediately.",
+      "hindi": "मुझे तुरंत बेडपैन या यूरिनल की आवश्यकता है।",
+      "kannada": "ನನಗೆ ತಕ್ಷಣ ಬೆಡ್‌ಪ್ಯಾನ್ ಅಥವಾ ಮೂತ್ರಪಾತ್ರೆ ಬೇಕು.",
+      "urgency": "Medium",
+      "sign_sequence": "BEDPAN + URINAL + NEED + NOW",
+      "keywords": [
+        "i",
+        "need",
+        "a",
+        "bedpan",
+        "or",
+        "urinal",
+        "immediately"
+      ]
+    },
+    {
+      "id": 88,
+      "category": "hygiene_restroom",
+      "english": "Can someone help me sponge bathe and clean?",
+      "hindi": "क्या कोई मुझे स्पंज स्नान कराने में मदद कर सकता है?",
+      "kannada": "ಯಾರಾದರೂ ನಾನು ಮೈ ಒರೆಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುವಿರಾ?",
+      "urgency": "Low",
+      "sign_sequence": "SPONGE + BATH + CLEAN + HELP",
+      "keywords": [
+        "can",
+        "someone",
+        "help",
+        "me",
+        "sponge",
+        "bathe",
+        "and",
+        "clean"
+      ]
+    },
+    {
+      "id": 89,
+      "category": "hygiene_restroom",
+      "english": "My diaper needs to be changed.",
+      "hindi": "मेरा डायपर बदलने की जरूरत है।",
+      "kannada": "ನನ್ನ ಡೈಪರ್ ಬದಲಾಯಿಸಬೇಕಾಗಿದೆ.",
+      "urgency": "Low",
+      "sign_sequence": "DIAPER + CHANGE + NEED",
+      "keywords": [
+        "my",
+        "diaper",
+        "needs",
+        "to",
+        "be",
+        "changed"
+      ]
+    },
+    {
+      "id": 90,
+      "category": "hygiene_restroom",
+      "english": "Please provide hand sanitizer and soap.",
+      "hindi": "कृपया हैंड सैनिटाइज़र और साबुन उपलब्ध कराएं।",
+      "kannada": "ದಯವಿಟ್ಟು ಹ್ಯಾಂಡ್ ಸ್ಯಾನಿಟೈಸರ್ ಮತ್ತು ಸಾಬೂನು ನೀಡಿ.",
+      "urgency": "Low",
+      "sign_sequence": "HAND + SANITIZER + SOAP + GIVE",
+      "keywords": [
+        "please",
+        "provide",
+        "hand",
+        "sanitizer",
+        "and",
+        "soap"
+      ]
+    },
+    {
+      "id": 91,
+      "category": "hygiene_restroom",
+      "english": "I need a fresh dental toothbrush and paste.",
+      "hindi": "मुझे एक नया टूथब्रश और टूथपेस्ट चाहिए।",
+      "kannada": "ನನಗೆ ಹೊಸ ಟೂತ್ ಬ್ರಷ್ ಮತ್ತು ಪೇಸ್ಟ್ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "TOOTHBRUSH + PASTE + FRESH + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "a",
+        "fresh",
+        "dental",
+        "toothbrush",
+        "and",
+        "paste"
+      ]
+    },
+    {
+      "id": 92,
+      "category": "hygiene_restroom",
+      "english": "The bathroom floor is slippery, please clean it.",
+      "hindi": "शौचालय का फर्श गीला और फिसलन भरा है, साफ करें।",
+      "kannada": "ಸ್ನಾನಗೃಹದ ನೆಲ ಜಾರುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+      "urgency": "Low",
+      "sign_sequence": "RESTROOM + FLOOR + SLIPPERY + CLEAN",
+      "keywords": [
+        "the",
+        "bathroom",
+        "floor",
+        "is",
+        "slippery",
+        "please",
+        "clean",
+        "it"
+      ]
+    },
+    {
+      "id": 93,
+      "category": "hygiene_restroom",
+      "english": "I need clean paper tissues or wet wipes.",
+      "hindi": "मुझे साफ टिशू पेपर या वेट वाइಪ್ಸ್ चाहिए।",
+      "kannada": "ನನಗೆ ಶುಚಿಯಾದ ಟಿಶ್ಯೂ ಪೇಪರ್ ಅಥವಾ ವೆಟ್ ವೈಪ್ಸ್ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "TISSUES + WIPES + CLEAN + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "clean",
+        "paper",
+        "tissues",
+        "or",
+        "wet",
+        "wipes"
+      ]
+    },
+    {
+      "id": 94,
+      "category": "hygiene_restroom",
+      "english": "Please empty the bedside urinary catheter bag.",
+      "hindi": "कृपया कैथेटर बैग को खाली करें।",
+      "kannada": "ದಯವಿಟ್ಟು ಕ್ಯಾಥೆಟರ್ ಚೀಲವನ್ನು ಖಾಲಿ ಮಾಡಿ.",
+      "urgency": "Medium",
+      "sign_sequence": "CATHETER + BAG + EMPTY + PLEASE",
+      "keywords": [
+        "please",
+        "empty",
+        "the",
+        "bedside",
+        "urinary",
+        "catheter",
+        "bag"
+      ]
+    },
+    {
+      "id": 95,
+      "category": "hygiene_restroom",
+      "english": "Can I wash my hands and face right now?",
+      "hindi": "क्या मैं अभी अपने हाथ और चेहरा धो सकता हूँ?",
+      "kannada": "ನಾನು ಈಗ ನನ್ನ ಕೈ ಮತ್ತು ಮುಖವನ್ನು ತೊಳೆಯಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "HANDS + FACE + WASH + NOW",
+      "keywords": [
+        "can",
+        "i",
+        "wash",
+        "my",
+        "hands",
+        "and",
+        "face",
+        "right",
+        "now"
+      ]
+    },
+    {
+      "id": 96,
+      "category": "discharge_admin",
+      "english": "When will the doctor approve my hospital discharge?",
+      "hindi": "डॉक्टर मुझे अस्पताल से कब छुट्टी (डिस्चार्ज) देंगे?",
+      "kannada": "ವೈದ್ಯರು ನನ್ನನ್ನು ಆಸ್ಪತ್ರೆಯಿಂದ ಯಾವಾಗ ಬಿಡುಗಡೆ ಮಾಡುತ್ತಾರೆ?",
+      "urgency": "Low",
+      "sign_sequence": "DOCTOR + DISCHARGE + WHEN + APPROVE?",
+      "keywords": [
+        "when",
+        "will",
+        "the",
+        "doctor",
+        "approve",
+        "my",
+        "hospital",
+        "discharge"
+      ]
+    },
+    {
+      "id": 97,
+      "category": "discharge_admin",
+      "english": "Where is the medical billing and insurance counter?",
+      "hindi": "मेडिकल बिलिंग और बीमा काउंटर कहाँ है?",
+      "kannada": "ಮೆಡಿಕಲ್ ಬಿಲ್ಲಿಂಗ್ ಮತ್ತು ವಿಮಾ ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "urgency": "Low",
+      "sign_sequence": "BILLING + INSURANCE + COUNTER + WHERE?",
+      "keywords": [
+        "where",
+        "is",
+        "the",
+        "medical",
+        "billing",
+        "and",
+        "insurance",
+        "counter"
+      ]
+    },
+    {
+      "id": 98,
+      "category": "discharge_admin",
+      "english": "Has the cashless insurance claim been approved?",
+      "hindi": "क्या कैशलेस स्वास्थ्य बीमा दावा स्वीकृत हो गया है?",
+      "kannada": "ನಗದು ರಹಿತ ಆರೋಗ್ಯ ವಿಮೆ ಕ್ಲೈಮ್ ಅನುಮೋದನೆಗೊಂಡಿದೆಯೇ?",
+      "urgency": "Low",
+      "sign_sequence": "CASHLESS + INSURANCE + CLAIM + APPROVED?",
+      "keywords": [
+        "has",
+        "the",
+        "cashless",
+        "insurance",
+        "claim",
+        "been",
+        "approved"
+      ]
+    },
+    {
+      "id": 99,
+      "category": "discharge_admin",
+      "english": "Please give me the final discharge summary papers.",
+      "hindi": "कृपया मुझे अंतिम डिस्चार्ज सारांश पत्र दें।",
+      "kannada": "ದಯವಿಟ್ಟು ನನಗೆ ಅಂತಿಮ ಡಿಸ್ಚಾರ್ಜ್ ಸಾರಾಂಶ ಪತ್ರಗಳನ್ನು ನೀಡಿ.",
+      "urgency": "Low",
+      "sign_sequence": "DISCHARGE + SUMMARY + PAPERS + GIVE",
+      "keywords": [
+        "please",
+        "give",
+        "me",
+        "the",
+        "final",
+        "discharge",
+        "summary",
+        "papers"
+      ]
+    },
+    {
+      "id": 100,
+      "category": "discharge_admin",
+      "english": "When should I come back for the follow-up visit?",
+      "hindi": "मुझे फॉलो-अप चेकअप के लिए दोबारा कब आना है?",
+      "kannada": "ನಾನು ತಪಾಸಣೆಗೆ ಮತ್ತೆ ಯಾವಾಗ ಬರಬೇಕು?",
+      "urgency": "Low",
+      "sign_sequence": "FOLLOW-UP + VISIT + WHEN + COME?",
+      "keywords": [
+        "when",
+        "should",
+        "i",
+        "come",
+        "back",
+        "for",
+        "the",
+        "follow-up",
+        "visit"
+      ]
+    },
+    {
+      "id": 101,
+      "category": "discharge_admin",
+      "english": "Can you call my family attendant inside?",
+      "hindi": "क्या आप मेरे परिवार के सदस्य को अंदर बुला सकते हैं?",
+      "kannada": "ನನ್ನ ಕುಟುಂಬದ ಸದಸ್ಯರನ್ನು ಒಳಗೆ ಕರೆಯಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "FAMILY + ATTENDANT + INSIDE + CALL",
+      "keywords": [
+        "can",
+        "you",
+        "call",
+        "my",
+        "family",
+        "attendant",
+        "inside"
+      ]
+    },
+    {
+      "id": 102,
+      "category": "discharge_admin",
+      "english": "I need an official medical certificate for work.",
+      "hindi": "मुझे काम के लिए एक आधिकारिक मेडिकल प्रमाणपत्र चाहिए।",
+      "kannada": "ನನಗೆ ಕೆಲಸದ ರಜೆಗಾಗಿ ವೈದ್ಯಕೀಯ ಪ್ರಮಾಣಪತ್ರ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "MEDICAL + CERTIFICATE + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "an",
+        "official",
+        "medical",
+        "certificate",
+        "for",
+        "work"
+      ]
+    },
+    {
+      "id": 103,
+      "category": "discharge_admin",
+      "english": "Where can I collect my post-discharge medications?",
+      "hindi": "डिस्चार्ज के बाद की दवाएं मुझे कहाँ से मिलेंगी?",
+      "kannada": "ಡಿಸ್ಚಾರ್ಜ್ ನಂತರದ ಔಷಧಿಗಳನ್ನು ನಾನು ಎಲ್ಲಿ ಪಡೆಯಬಹುದು?",
+      "urgency": "Low",
+      "sign_sequence": "DISCHARGE + MEDICATIONS + PHARMACY + WHERE?",
+      "keywords": [
+        "where",
+        "can",
+        "i",
+        "collect",
+        "my",
+        "post-discharge",
+        "medications"
+      ]
+    },
+    {
+      "id": 104,
+      "category": "discharge_admin",
+      "english": "Can I get an itemized hospital bill breakdown?",
+      "hindi": "क्या मुझे अस्पताल बिल का विस्तृत विवरण मिल सकता है?",
+      "kannada": "ನನಗೆ ಆಸ್ಪತ್ರೆಯ ಬಿಲ್ ವಿವರಣಾ ಪಟ್ಟಿ ಸಿಗಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "HOSPITAL + BILL + ITEMIZED + NEED",
+      "keywords": [
+        "can",
+        "i",
+        "get",
+        "an",
+        "itemized",
+        "hospital",
+        "bill",
+        "breakdown"
+      ]
+    },
+    {
+      "id": 105,
+      "category": "discharge_admin",
+      "english": "Is transportation or ambulance arranged for home?",
+      "hindi": "क्या घर जाने के लिए वाहन या एम्बुलेंस की व्यवस्था है?",
+      "kannada": "ಮನೆಗೆ ಹೋಗಲು ವಾಹನ ಅಥವಾ ಆಂಬ್ಯುಲೆನ್ಸ್ ವ್ಯವಸ್ಥೆ ಇದೆಯೇ?",
+      "urgency": "Low",
+      "sign_sequence": "HOME + TRANSPORT + AMBULANCE + ARRANGED?",
+      "keywords": [
+        "is",
+        "transportation",
+        "or",
+        "ambulance",
+        "arranged",
+        "for",
+        "home"
+      ]
+    },
+    {
+      "id": 106,
+      "category": "pediatric_maternal",
+      "english": "The baby is crying continuously and will not feed.",
+      "hindi": "बच्चा लगातार रो रहा है और दूध नहीं पी रहा है।",
+      "kannada": "ಮಗು ನಿರಂತರವಾಗಿ ಅಳುತ್ತಿದೆ ಮತ್ತು ಹಾಲು ಕುಡಿಯುತ್ತಿಲ್ಲ.",
+      "urgency": "Medium",
+      "sign_sequence": "BABY + CRYING + FEED + NOT",
+      "keywords": [
+        "the",
+        "baby",
+        "is",
+        "crying",
+        "continuously",
+        "and",
+        "will",
+        "not",
+        "feed"
+      ]
+    },
+    {
+      "id": 107,
+      "category": "pediatric_maternal",
+      "english": "When is the baby's next vaccination dose due?",
+      "hindi": "बच्चे का अगला टीकाकरण कब होना है?",
+      "kannada": "ಮಗುವಿನ ಮುಂದಿನ ಲಸಿಕೆ ಯಾವಾಗ ನೀಡಬೇಕು?",
+      "urgency": "Low",
+      "sign_sequence": "BABY + VACCINE + NEXT + WHEN?",
+      "keywords": [
+        "when",
+        "is",
+        "the",
+        "baby's",
+        "next",
+        "vaccination",
+        "dose",
+        "due"
+      ]
+    },
+    {
+      "id": 108,
+      "category": "pediatric_maternal",
+      "english": "I am experiencing labor contractions.",
+      "hindi": "मुझे प्रसव पीड़ा संकुचन शुरू हो गए हैं।",
+      "kannada": "ನನಗೆ ಹೆರಿಗೆ ನೋವಿನ ಸೆಳೆತ ಪ್ರಾರಂಭವಾಗಿದೆ.",
+      "urgency": "High",
+      "sign_sequence": "LABOR + CONTRACTION + PAIN + START",
+      "keywords": [
+        "i",
+        "am",
+        "experiencing",
+        "labor",
+        "contractions"
+      ]
+    },
+    {
+      "id": 109,
+      "category": "pediatric_maternal",
+      "english": "Can the pediatrician examine my child?",
+      "hindi": "क्या बाल रोग विशेषज्ञ मेरे बच्चे की जांच कर सकते हैं?",
+      "kannada": "ಮಕ್ಕಳ ತಜ್ಞರು ನನ್ನ ಮಗುವನ್ನು ಪರೀಕ್ಷಿಸಬಹುದೇ?",
+      "urgency": "Medium",
+      "sign_sequence": "PEDIATRICIAN + CHILD + EXAMINE + CAN?",
+      "keywords": [
+        "can",
+        "the",
+        "pediatrician",
+        "examine",
+        "my",
+        "child"
+      ]
+    },
+    {
+      "id": 110,
+      "category": "pediatric_maternal",
+      "english": "I need a breast pump or feeding bottle.",
+      "hindi": "मुझे ब्रेस्ट पंप या फीडिंग बोतल चाहिए।",
+      "kannada": "ನನಗೆ ಬ್ರೆಸ್ಟ್ ಪಂಪ್ ಅಥವಾ ಫೀಡಿಂಗ್ ಬಾಟಲ್ ಬೇಕು.",
+      "urgency": "Low",
+      "sign_sequence": "BREAST-PUMP + BOTTLE + NEED",
+      "keywords": [
+        "i",
+        "need",
+        "a",
+        "breast",
+        "pump",
+        "or",
+        "feeding",
+        "bottle"
+      ]
+    },
+    {
+      "id": 111,
+      "category": "pediatric_maternal",
+      "english": "The child has developed red skin rashes.",
+      "hindi": "बच्चे के शरीर पर लाल चकत्ते पड़ गए हैं।",
+      "kannada": "ಮಗುವಿನ ಮೈಮೇಲೆ ಕೆಂಪು ದದ್ದುಗಳು ಬಂದಿವೆ.",
+      "urgency": "Medium",
+      "sign_sequence": "CHILD + SKIN + RED + RASHES",
+      "keywords": [
+        "the",
+        "child",
+        "has",
+        "developed",
+        "red",
+        "skin",
+        "rashes"
+      ]
+    },
+    {
+      "id": 112,
+      "category": "pediatric_maternal",
+      "english": "Please weigh the newborn baby today.",
+      "hindi": "कृपया आज नवजात शिशु का वजन करें।",
+      "kannada": "ದಯವಿಟ್ಟು ನವಜಾತ ಶಿಶುವಿನ ತೂಕವನ್ನು ಇಂದು ಪರೀಕ್ಷಿಸಿ.",
+      "urgency": "Low",
+      "sign_sequence": "NEWBORN + BABY + WEIGHT + MEASURE",
+      "keywords": [
+        "please",
+        "weigh",
+        "the",
+        "newborn",
+        "baby",
+        "today"
+      ]
+    },
+    {
+      "id": 113,
+      "category": "pediatric_maternal",
+      "english": "The child's fever has not reduced after syrup.",
+      "hindi": "सिरप देने के बाद भी बच्चे का बुखार नहीं उतरा।",
+      "kannada": "ಸಿರಪ್ ನೀಡಿದ ನಂತರವೂ ಮಗುವಿನ ಜ್ವರ ಇಳಿದಿಲ್ಲ.",
+      "urgency": "Medium",
+      "sign_sequence": "CHILD + FEVER + SYRUP + NOT + REDUCE",
+      "keywords": [
+        "the",
+        "child's",
+        "fever",
+        "has",
+        "not",
+        "reduced",
+        "after",
+        "syrup"
+      ]
+    },
+    {
+      "id": 114,
+      "category": "pediatric_maternal",
+      "english": "Where is the neonatal nursery ward located?",
+      "hindi": "नवजात शिशु नर्सरी वार्ड कहाँ स्थित है?",
+      "kannada": "ನವಜಾತ ಶಿಶುಗಳ ನರ್ಸರಿ ವಾರ್ಡ್ ಎಲ್ಲಿದೆ?",
+      "urgency": "Low",
+      "sign_sequence": "NEONATAL + NURSERY + WARD + WHERE?",
+      "keywords": [
+        "where",
+        "is",
+        "the",
+        "neonatal",
+        "nursery",
+        "ward",
+        "located"
+      ]
+    },
+    {
+      "id": 115,
+      "category": "pediatric_maternal",
+      "english": "Can the mother have warm water and nutritious broth?",
+      "hindi": "क्या माँ को गुनगुना पानी और पौष्टिक सूप मिल सकता है?",
+      "kannada": "ತಾಯಿಗೆ ಬೆಚ್ಚಗಿನ ನೀರು ಮತ್ತು ಪೌಷ್ಟಿಕ ಸೂಪ್ ಸಿಗಬಹುದೇ?",
+      "urgency": "Low",
+      "sign_sequence": "MOTHER + WARM + WATER + BROTH + WANT",
+      "keywords": [
+        "can",
+        "the",
+        "mother",
+        "have",
+        "warm",
+        "water",
+        "and",
+        "nutritious",
+        "broth"
+      ]
+    }
+  ]
+}
